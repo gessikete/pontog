@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: "#BlogDay 2010"
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 312
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=312
+date: '2010-08-31 18:28:55 -0400'
+date_gmt: '2010-08-31 21:28:55 -0400'
+categories:
+- Novidades
+tags:
+- pin-up
+- blogday
+- blogs
+---
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_5.png"><img class="alignleft size-medium wp-image-313" title="PinUp_5" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_5-227x300.png" alt="" width="227" height="300" /></a>Hello, Readers!</p>
+<p>Como vocês devem saber, ou não, hoje é o <span style="color: #ff6600;">#BlogDay</span>! (So... What?) E agora que eu estou nesse mundo dos blogueiros tenho que agir como tal, não acham?</p>
+<p>Antes de mostrar para vocês as minhas indicações é importante explicar aos que não sabem o que é o Blog Day: este dia foi inventado para que os blogers tenham um dia oficial para conhecer novos blogs, de outros países, ou outros assuntos. Então a missão dos escritores é escolher cinco blogs que goste e indicá-los para seus leitores. Olha só que maravilha! <span style="color: #ffff00;">=D</span></p>
+<p>Então aqui vão as minhas cinco indicações:</p>
+<p style="text-align: center;"><a href="http://www.blogday.org/" target="_blank"><img class="aligncenter" src="http://www.blogday.org/images/badge_red.gif" alt="Blog Day 2010" width="310" height="130" /></a></p>
+<h3><a title="mundodastrevas.com" href="http://mundodastrevas.com" target="_blank">http://mundodastrevas.com</a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-11.jpg"><img class="alignright size-full wp-image-320" title="Untitled-1" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-11.jpg" alt="" width="128" height="97" /></a></h3>
+<p>Acompanho desde que foi pensado. Site voltado a discussão sobre RPG com fóruns, materiais postados pelos usuários e, é claro, um blog! Uma ótima indicação para quem gosta do Novo Mundo das Trevas. <a title="@WoDBrasil" href="http://twitter.com/wodbrasil" target="_blank">@WoDBrasil</a><br />
+<br/><br />
+<a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-2.jpg"><img class="alignright size-full wp-image-319" title="vegchica" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-2.jpg" alt="" width="128" height="97" /></a></p>
+<h3><a title="VegChica" href="http://vegchica.blogspot.com/" target="_blank">http://vegchica.blogspot.com/</a></h3>
+<p>Blog da Lailika com ótimas receitas veganas e fotos que de tão reais tiram até o fôlego!<br />
+<h3>
+<br/><br />
+<a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Chubby-Vegan-Curso3.jpg"><img class="alignright size-full wp-image-321" title="chubbyvegan" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Chubby-Vegan-Curso3.jpg" alt="" width="128" height="77" /></a><a href="http://chubbyvegan.net/">http://chubbyvegan.net/</a></h3>
+<p>Mais um blog com receitas veganas com a seção "Eu que fiz" em que você pode testar as receitas que estão disponíveis e mandar uma foto para aparecer! \o/ <a title="@chubby_vegan" href="http://twitter.com/chubby_vegan" target="_blank">@chubby_vegan</a><br />
+<br/></p>
+<h3><a href="http://gyabbo.wordpress.com/">http://gyabbo.wordpress.com/</a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-3.jpg"><img class="alignright size-full wp-image-322" title="gyabbo!" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-3.jpg" alt="" width="128" height="77" /></a></h3>
+<p>Blog dedicado entretenimento asíatico (palavras do próprio autor) , animes, mangás, doramas... Adoooro! *-*<br />
+<br/></p>
+<h3><a href="http://delicada-perversao.blogspot.com/">http://delicada-perversao.blogspot.com/</a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-12.jpg"><img class="alignright size-full wp-image-323" title="delicadaperversão" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/Untitled-12.jpg" alt="" width="128" height="77" /></a></h3>
+<p>Às vezes com temas pessoais e em outros momentos com belos textos, este é o blog  da minha jornalista favorita! s2 Sua forma única de escrever vale a pena ser conferida. <a title="@Alanuska" href="http://twitter.com/alanuska" target="_blank">@Alanuska</a><br />
+<br/><br />
+Confiram todos, hein! See ya!</p>

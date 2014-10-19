@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Trecho I
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 643
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=643
+date: '2011-01-29 15:34:47 -0500'
+date_gmt: '2011-01-29 18:34:47 -0500'
+categories:
+- Trechos
+tags:
+- dragonlance
+---
+<blockquote>
+<h1 style="text-align: center;"><em>Não se sinta envergonhado, Tas. Agradeça por você sentir pena e horror diante da morte de um inimigo. O dia em que nós deixarmos de nos importar... até mesmo com nossos inimigos, esse será o dia em que nós teremos perdido essa batalha.</em></h1>
+</blockquote>
+<p><br/><br/></p>
+<p style="text-align: center;"><span style="color: #99cc00;">Laurana, Dragões da Noite de Inverno</span></p>

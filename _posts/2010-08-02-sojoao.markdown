@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: SóJoão (!?)
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 180
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=180
+date: '2010-08-02 23:17:57 -0400'
+date_gmt: '2010-08-03 02:17:57 -0400'
+categories:
+- Eventos
+tags:
+- vegan
+- festinha
+- comida
+- junina
+- julina
+- agostina
+---
+<p>Hello, queridos leitores! S2</p>
+<p>Depois de muito tempo sem postar aqui estou eu novamente!! Sim, é verdade... Fiquei com preguiça e sem assunto, então não postei mais! <span style="color: #ffff00;">u.u</span></p>
+<p>Porém, agora tenho uma novidade e vou estampá-la aqui para vocês.</p>
+<p>Neste sábado (31/07/2010) foi realizada, mesmo que beeeeeeem atrasada, uma festinha junina... julina... agostina... whatever... Tivemos comidinhas veganas, gurias à caráter e até enfeites!</p>
+<p>Bem, minha incrível capacidade de esquecer de coisas importantes não me deixou lembrar de tirar várias fotos de todas as comidinhas que tinham na festa, portanto, sem fotos de comidas!<span style="color: #ffff00;"> &gt;.&lt;</span> Porééééém tirei algumas fotos da galera que estava lá (muito gente fina por sinal <span style="color: #ffff00;">^^</span>).</p>
+<p>Bem... Aí está a galera!<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="288" height="192" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="host=picasaweb.google.com&amp;hl=pt_BR&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Ferratic.115%2Falbumid%2F5500996223174253729%3Falt%3Drss%26kind%3Dphoto%26hl%3Dpt_BR" /><param name="src" value="http://picasaweb.google.com/s/c/bin/slideshow.swf" /><embed type="application/x-shockwave-flash" width="288" height="192" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" flashvars="host=picasaweb.google.com&amp;hl=pt_BR&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Ferratic.115%2Falbumid%2F5500996223174253729%3Falt%3Drss%26kind%3Dphoto%26hl%3Dpt_BR"></embed></object></p>
+<p>Obs.: Pro pessoal que quiser as fotos, elas estão em meu álbum no picasa! ^^</p>
+<p>link: <a title="SóJoão Picasa" href="http://picasaweb.google.com/erratic.115/SoJoao?feat=directlink" target="_blank">http://picasaweb.google.com/erratic.115/SoJoao?feat=directlink</a></p>
+<p>Ah! Para quem quiser as receitas depois colocarei aqui no blog e provavelmente a próxima postagem será de um delicioso bolo de banana! <span style="color: #ffff00;">*-*</span></p>
+<p>See you! <span style="color: #ffff00;">o/</span></p>

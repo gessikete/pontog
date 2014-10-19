@@ -1,0 +1,43 @@
+---
+layout: post
+status: publish
+published: true
+title: Rec
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 1194
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1194
+date: '2013-01-31 16:39:54 -0500'
+date_gmt: '2013-01-31 18:39:54 -0500'
+categories:
+- New
+- Mangás
+- Animes
+tags:
+- mangá
+- anime
+- shoujo
+- rec
+- fanservice
+---
+<p style="text-align: justify;">Olá, meus queridíssimos!</p>
+<p style="text-align: justify;">Voltei e dessa vez não falarei sobre filmes! Finalmente, hein?</p>
+<p style="text-align: justify;">Ontem me lembrei de um mangá que eu descobri não sei mais como, mas que ocupou algumas horas minhas em alguns dias. :) Pelo título vocês já devem saber o nome, né? Ao contrário do filme homônimo, Rec não tem absolutamente nada de suspense. É um <a title="Shoujo" href="http://pt.wikipedia.org/wiki/Sh%C5%8Djo" target="_blank">shoujo</a>, onde a protagonista Onda Aka, uma aspirante a dubladora, se encontra em frente a um cinema com o também protagonista Matsumaru Fumihiko, que trabalha no departamento de marketing de uma companhia de salgadinhos. O que eles têm em comum? Moram no mesmo bairro e após um incendio onde Aka ficou sem tudo Fumihiko a convida para morar com ele. E aí que um romance as encondidas começa, visto que Aka consegue o emprego de dubladora do mascote da mesma compainha de salgadinhos para a qual Fumihiko trabalha.</p>
+<p style="text-align: justify;">Mas só essa historinha comum não me chamaria atenção. O interessante é que a Onda Aka é mega fã da Audrey Hepburn, e o filme ao qual Aka e Fumihiko assistem quando se encontram é Roman Holiday, onde ela demonstra todo o seu fanatismo e dubla todas as falas da Audrey. Como eu poderia não ver? Também sou apaixonada pela Audrey (não digo fã, pois ainda não consegui ver todos os filmes. Mas sou absulutamente fã da pessoa que ela foi também fora das telas). Não é um suuuper mangá/anime, mas é bem bonitinho, tem muuuito <em>fan service</em>, mas nada muito absurdo que eu já não tenha visto. A Aka é beeeeeem infantilizada (como os japoneses gostam), para comparar com um mangá mais conhecido ela é bem mais infantil que a Nana (Hachiko, do mangá Nana). Outra coisa interessante é que todos os episódios tem nomos referentes a filmes que a Audrey fez parte. Lindo, né? :3</p>
+<p style="text-align: justify;">No final das contas fiquei apaixonadinha pela história bobinha, li todo o mangá, depois vi todo o anime e agora verei o OVA. Sou uma vendida. ''/ Mas #fikadika, o anime é bem rapidinho, tem só 9 episódios, vale a pena pela curiosidade. Vou deixar a abertura para vocês assistirem, é bem bonitinha e cheia de referencias aos filmes da Audrey, minha diva, minha musa.</p>
+<p style="text-align: justify;">Bjoks and see ya at Tiffany's! =*</p>
+<h2><span style="text-decoration: underline;">Rec</span></h2>
+<p><a href="http://anime.3yen.com/wp-content/images/rec01.jpg"><img class="alignnone size-full wp-image-1197" alt="Rec" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2013/01/rec01.jpg" width="234" height="206" /></a></p>
+<p><span style="text-decoration: underline;">Gênero</span>: Drama, Comédia Romântica</p>
+<h3>Mangá</h3>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Escrito por</span>: Hanamizawa Q-Tarou</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Volumes</span>: 14</p>
+<h3>Anime</h3>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Direção</span>: Ryutaro Nakamura</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;">Episódios</span>: 9</p>
+<p><iframe src="http://www.youtube.com/embed/EVvBa5ltLbo" height="405" width="540" allowfullscreen="" frameborder="0"></iframe></p>

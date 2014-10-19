@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: Sandman
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 500
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=500
+date: '2010-11-14 22:38:36 -0500'
+date_gmt: '2010-11-15 01:38:36 -0500'
+categories:
+- Dicas
+- Livros
+tags:
+- pinup
+- sandman
+- neil gaiman
+- perpetuos
+---
+<p style="text-align: justify;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_19.png"><img class="aligncenter size-medium wp-image-501" title="PinUp_19" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_19-300x209.png" alt="" width="300" height="209" /></a>Hello, my sweet readers!</p>
+<p style="text-align: justify;">Hoje trago mais uma ótima dica para vocês: Sandman!</p>
+<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/sandman_1.jpg"><img class="aligncenter size-full wp-image-503" title="Sandman" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/sandman_1.jpg" alt="" width="502" height="377" /></a></p>
+<p style="text-align: justify;">Esta tarde acabei de ler o volume 1 da edição definitiva de Sandman e afirmo para vocês, junto à Watchmen é um dos melhores quadrinhos que já li EVER!</p>
+<p style="text-align: justify;">Bem, o volume 1 desta edição reúne a primeira parte de várias histórias que viriam em mais 3 volumes ainda não lançados no Brasil. Estas contam várias histórias escritas por <a title="Neil Gaiman" href="http://pt.wikipedia.org/wiki/Neil_Gaiman" target="_blank">Neil Gaiman</a>, muitas sem ligação entre si, de Sandman, um dos Perpétuos, o governante do Sonhar.</p>
+<p style="text-align: justify;">Este primeiro volume começa com a captura de Sandman por mortais, que a fizeram tentando aprisionar a Morte (outra Perpétua e irmã de Sandman), este, depois de vários anos aprisionado, consegue se libertar, porém acaba se vendo sem nenhum dos seus pertences (que diga-se de passagem não são pertences quaisquer) e assim começa o desenrolar da história, com o nosso querido Morpheus em busca das suas posses nos proporciona uma das melhores histórias (ao menos ao meu ver) do livro: 24 horas.</p>
+<p style="text-align: justify;">Devo dizer que <a title="Neil Gaiman" href="http://pt.wikipedia.org/wiki/Neil_Gaiman" target="_blank">Neil Gaiman</a> sabe muito bem utilizar a história e os mitos ao seu favor (vide seu sucesso como escritor), como Shakespeare, as Musas, Vovó Bondade e o Dr. Destino... E trazendo histórias e questionamentos que só poderiam terem sido pensados por ele, como: E se uma Musa fosse capturada por um ser humano, com sua sede de poder e sucesso? O que aconteceria? Os gatos sonham? Como seria o Senhor dos Sonhos para os gatos?</p>
+<p style="text-align: justify;">Terminei de ler somente o primeiro volume e espero que a Panini nos agracie com os outros em português para que possamos degustar de mais boas leituras como "Homens de boa fortuna" e "Um Sonho de mil gatos". Apesar de ser um extenso a leitura é super agradável e se você tem grana eu super recomendo que compre! Mesmo!</p>
+<p style="text-align: justify;">É isso, readers. Espero que este post os estimule a ler e a aproveitar todas as sacadas de <a title="Neil Gaiman" href="http://pt.wikipedia.org/wiki/Neil_Gaiman" target="_blank">Neil Gaiman</a>! Vale muito a pena! Espero voltar em breve com mais dicas sobre livros!</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Bjoks e até o próximo post!</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;"><a href="http://2.bp.blogspot.com/_0wq_CULLHsw/S70A4Biy52I/AAAAAAAAAE4/sreKbfzr28I/s1600/300px-Sandman_Absolute,_Volume_1.jpg"><img class="aligncenter" title="Sandman Edição Definitiva" src="http://2.bp.blogspot.com/_0wq_CULLHsw/S70A4Biy52I/AAAAAAAAAE4/sreKbfzr28I/s1600/300px-Sandman_Absolute,_Volume_1.jpg" alt="" width="300" height="443" /></a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;"><span style="color: #ff0000;">P.S.</span>: A versão definitiva é LIN-DA!</p>

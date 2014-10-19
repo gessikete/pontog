@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Amanda
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 1151
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1151
+date: '2012-10-08 20:49:41 -0400'
+date_gmt: '2012-10-08 23:49:41 -0400'
+categories:
+- New
+tags: []
+---
+<p style="text-align: justify; text-indent: 50px;">Ela costumava acreditar nas pessoas. Sempre crente e esperançosa sobre o mundo. Sim, existiam as pessoas que faziam coisas más, mas elas deveriam ter seus motivos. Por que não? Ela mal entendia o que se passava em sua cabeça, imagine nas de quem ela sequer conhecia.</p>
+<p style="text-align: justify; text-indent: 50px;">Então decidiu não se preocupar com as pessoas ruins, pois poderia se concentrar nas pessoas boas. Tentou ser a mudança que queria para o mundo. Quase inocente, tinha a bondade como sua essência. Decidida e com suas próprias convicções, vivia para não feri-las.</p>
+<p style="text-align: justify; text-indent: 50px;">Pobre Amanda, seu erro foi pensar que todos poderiam ser como ela. Pensar por si só, enxergar o mundo coletivamente e decidir por caminhos diferentes em direção a um bem comum. Pois foi não sendo egoísta que ela se prendeu ao seu próprio mundo e nele se permitiu ser enganada.</p>
+<p style="text-align: justify; text-indent: 50px;">Em sua inocência, Amanda se iludiu exatamente por quem só queria usá-la. E foi isto que aconteceu. Usada e descartada, ela se perguntou “por quê?” e não obteve muitas respostas que a confortassem além de: “devo ter sido vítima de uma das pessoas más.”, porém seu próprio argumento não a convenceu e algo acabou sendo rompido na pureza de suas convicções.</p>
+<p style="text-align: justify; text-indent: 50px;">Agora ela não mais consegue confiar, se entregar ou acreditar totalmente. Pôs em xeque suas crenças e teve dúvidas sobre elas. Se questionou sobre a razão de todo esse alvoroço entre essa espécie tão pequena e mesquinha frente a grandeza do Universo. Não procurou respostas prontas em deuses ou religiões, ao invés disso prosseguiu em seus questionamentos, sem ao menos saber se era a única e porque se torturava tanto enquanto tantos não se importavam.</p>
+<p style="text-align: justify; text-indent: 50px;">Finalmente ela encontrou uma resposta, justamente na espécie mesquinha que tanto amava e odiava. E essa resposta a convence, a convence tanto que ela até volta a acreditar. Diria até que está feliz.</p>

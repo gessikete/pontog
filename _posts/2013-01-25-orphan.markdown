@@ -1,0 +1,34 @@
+---
+layout: post
+status: publish
+published: true
+title: Orphan
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 1169
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1169
+date: '2013-01-25 10:00:01 -0500'
+date_gmt: '2013-01-25 12:00:01 -0500'
+categories:
+- New
+- Filmes
+tags: []
+---
+<p style="text-align: justify;">Hello, amores!</p>
+<p style="text-align: justify;">Olha como eu sou boazinha! Já estou de volta. Como passaram de ontem? Bem? Espero que sim!</p>
+<p style="text-align: justify;">Volto para falar para vocês sobre mais um filme: Orphan. Bem, a história se passa em torno de um casal, que após a morte do seu terceiro filho, ainda no ventre de sua mãe (sou refinada com as palavras) decide adotar uma criança órfã, para dar a ela todo o amor que seria dado para a criança não nascida. Mas é claro que para ser um filme de suspense/terror/drama que ele se propõe teria que dar alguma merda, né? A criança começa a se mostrar um pouco estranha e acontecimentos ruins parecem rondar a pequena Esther, a órfã, interpretada por Isabelle Fuhrman.</p>
+<p style="text-align: justify;">Agora sobre as minhas impressões sobre o filme. Ele, que se propõe ser e suspense/terror/drama não consegue esse tom, o que faz com que seja bastante chato. Muitas questões são levantadas, como a morte do filho não nascido, o tal acidente no lago, o alcoolismo da mãe (Vera Farmiga) e a traição do pai (Peter Sarsgaard) e nada é explicado de alguma forma, tudo é jogado superficialmente para ter um peso "dramático" na trama. A única coisa que valeu a pena em ver o filme foi a atuação da Isabelle Fuhrman e da Aryana Engineer (que faz o papel da filha mais nova, que é surda), ótimas atrizes.</p>
+<p style="text-align: justify;">Minha sugestão é: não assistam, sério. Se tiverem muita curiosidade podem assistir só o trailer que mostra todas as cenas "importantes". Não percam o tempo de vocês, se quiserem muito ver um filme assistam "Hide and Seek", muito melhor.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Bjoks e um xêro. Até logo menos.</p>
+<p>&nbsp;</p>
+<p><a href="http://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Poster_Orphan.jpg/200px-Poster_Orphan.jpg"><img class="alignnone size-full wp-image-1172" title="Orphan" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2013/01/200px-Poster_Orphan.jpg" alt="" width="200" height="297" /></a></p>
+<h2><span style="text-decoration: underline;">Orphan</span></h2>
+<p><span style="text-decoration: underline;">Direção</span>: Jaume Collet-Serra</p>
+<p><span style="text-decoration: underline;">Ano</span>: 2009</p>
+<p><iframe width="540" height="304" src="http://www.youtube.com/embed/m5BSLNAKIZs" frameborder="0" allowfullscreen></iframe></p>

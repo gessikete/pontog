@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: Mudanças
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 1042
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1042
+date: '2012-01-25 18:21:07 -0500'
+date_gmt: '2012-01-25 20:21:07 -0500'
+categories:
+- Notas
+tags: []
+---
+<p style="text-align: justify;">Olá, meus velhos amigos.</p>
+<p style="text-align: justify;">Cá estou eu novamente, cara de pau como sempre, solicitando a atenção de vocês para anunciar a minha mais nova investida!</p>
+<p style="text-align: justify;">Temo que vocês já tenham percebido a freada brusca que dei nos post no Ponto G. Pois é,  o ano novo veio e a velha Géssica preguiçosa voltou! Mas agora planejo mudanças e seria de grande alegria para mim vocês poderem participar ativamente (já estou pedindo comentários) dos meus novos planos.</p>
+<blockquote>
+<p style="text-align: justify;">Mas que mudanças seriam essas, Tia?</p>
+</blockquote>
+<p style="text-align: justify;">Justamente isso que estava prestes a anunciar para vocês, meus caros leitores. Ontem mesmo enquanto conversava com minha BFF, o um Rapaz, <del>tive a brilhante ideia</del> ela teve uma excelente ideia para um novo blog e eu pedi para copiá-la descaradamente e ela deu carta branca para que eu o fizesse.</p>
+<blockquote>
+<p style="text-align: justify;">E as mudanças?? Quais são?</p>
+</blockquote>
+<p style="text-align: justify;">Calm down, my friends. Já estava chegando nesse ponto! A ideia é que a partir de agora o blog será dividido basicamente em 5 tópicos:</p>
+<p style="text-align: justify;">1. Filmes</p>
+<p style="text-align: justify;">2. Livros</p>
+<p style="text-align: justify;">3. Música</p>
+<p style="text-align: justify;">4. Animes</p>
+<p style="text-align: justify;">5. Mangás</p>
+<blockquote>
+<p style="text-align: justify;">Ah... Mas conheço 10000000 de blogs que falam dessas coisas...</p>
+</blockquote>
+<p style="text-align: justify;">E eu bem sei que eles existem, seus pestinhas. Porém nenhum deles trará esses temas sobre o meu ponto de vista, não é mesmo? E a ideia não é falar de filmes ou livros quaisquer, mas sim livros que acabei de ler, músicas que acabei de descobrir, filmes que acabei de ver... E assim por diante.</p>
+<p style="text-align: justify;">Tenho que assumir que não sou perita em nenhum desses temas, mas eles me agradam e eu teria muito prazer em compartilhar minhas experiencias, mesmo que superficiais, sobre eles com vocês.</p>
+<p style="text-align: justify;">Além disso pretendo deixar a categoria "Wandos do meu Brasil" reservada para o Pedro Grizotti, caso ele resolva voltar aqui algum dia e nos agraciar com um pouco de sua literatura.</p>
+<p style="text-align: justify;">Acrescido a mudança de formato (que agora está definido e não será somente uma bola de informações sem ligações entre si) pretendo mudar um pouco o layout do blog. Então peço que, caso não achem (ou achem), deem o parecer de vocês que eu aceitarei (ou discutirei) humildemente.</p>
+<p style="text-align: justify;">Por enquanto é só isso. Já tenho a ideia para o primeiro post dentro do novo formato e ele será lindo! &lt;3</p>
+<p style="text-align: justify;">Um beijo e muito amor para vocês.</p>
+<p style="text-align: justify;">See ya.</p>

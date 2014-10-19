@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: Mika
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 513
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=513
+date: '2010-11-21 18:14:16 -0500'
+date_gmt: '2010-11-21 21:14:16 -0500'
+categories:
+- Dicas
+- Musica
+tags:
+- musica
+- mika
+---
+<p>Hello, Guys!</p>
+<p>Hoje eu só passei para deixar uma musiquinha para vocês!</p>
+<p style="text-align: center;">
+<a href="http://www.youtube.com/user/MIKAVEVO#p/u/4/EaEPCsQ4608">Mika</a></p>
+<p><a href="http://www.youtube.com/user/MIKAVEVO#p/u/4/EaEPCsQ4608"></a><br />
+<a href="http://www.beirutnightlife.com/wp-content/uploads/2010/07/mare_1327_mika_02.png"><img class="aligncenter" title="Mika" src="http://www.beirutnightlife.com/wp-content/uploads/2010/07/mare_1327_mika_02.png" alt="" width="453" height="604" /></a></p>

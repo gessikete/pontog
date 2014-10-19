@@ -1,0 +1,91 @@
+---
+layout: post
+status: publish
+published: true
+title: Gravatar
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 679
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=679
+date: '2011-02-07 17:56:03 -0500'
+date_gmt: '2011-02-07 20:56:03 -0500'
+categories:
+- Dicas
+tags:
+- pin-up
+- gravatar
+- fotos
+- wikipédia
+---
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_33.png"><img class="alignright size-medium wp-image-680" title="PinUp_33" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_33-209x300.png" alt="" width="209" height="300" /></a></p>
+<p style="text-align: justify;">Olá, pessoal!</p>
+<p style="text-align: justify;">A galera ativa nos comentários não só do Ponto G, mas de alguns outros blogs deve ter percebido um recurso que habilita uma foto quando um comentário é feito, e, no caso do Ponto G, quem não tem foto aparece como uma forminha estranha!</p>
+<p style="text-align: justify;">Observei nas minhas andanças por blogs que muitas dessas pessoas não sabem como utilizar este recurso. Portanto quero apresentar para vocês a ferramenta milagrosa das fotos em comentários: <a title="Gravatar" href="http://pt.gravatar.com/" target="_blank">GRAVATAR</a>.</p>
+<p style="text-align: justify;">Se os senhores fizerem o favor de clicar no link do nome <a title="Gravatar" href="http://pt.gravatar.com/" target="_blank">GRAVATAR</a> serão magicamente enviados para o site onde tudo acontece.</p>
+<p style="text-align: justify;">E agora eu invoco a Wikipédia para uma pequena explicação sobre o que é <a title="Gravatar" href="http://pt.gravatar.com/" target="_blank">GRAVATAR</a>:</p>
+<blockquote>
+<p style="text-align: left;"><em><strong>Gravatar</strong></em>, <em><a title="Avatar (realidade virtual)" href="http://pt.wikipedia.org/wiki/Avatar_(realidade_virtual)">avatar</a> reconhecido globalmente</em> (em <a title="Língua inglesa" href="http://pt.wikipedia.org/wiki/L%C3%ADngua_inglesa">inglês</a>, <strong>G</strong>lobally <strong>R</strong>ecognized <strong>Avatar</strong>), é um serviço de disponibilização de <a title="Avatar (realidade virtual)" href="http://pt.wikipedia.org/wiki/Avatar_(realidade_virtual)">avatares</a> via associação a endereços de <a title="Correio eletrônico" href="http://pt.wikipedia.org/wiki/Correio_eletr%C3%B4nico">correio eletrônico</a> cadastrados, para uma variedade de sítios, inclusive os baseados em <a title="WordPress" href="http://pt.wikipedia.org/wiki/WordPress">WordPress</a>. Com o Gravatar, suas mensagens podem ser facilmente identificadas, em qualquer site que use o recurso, pela imagem que o represente e que você tenha cadastrado no sistema.</p>
+</blockquote>
+<address style="text-align: right;">Fonte: <a href="http://pt.wikipedia.org/wiki/Gravatar">http://pt.wikipedia.org/wiki/Gravatar</a></address>
+<address style="text-align: right;"></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">OU SEJA, a partir do momento em que você entra no site <a title="Gravatar" href="http://pt.gravatar.com/" target="_blank">GRAVATAR</a>, cadastra um e-mail  e <a title="Upar" href="http://www.dicionarioinformal.com.br/buscar.php?palavra=upar" target="_blank">upa</a> uma imagem, todas as vezes em que você comentar em um blog que use o serviço utilizando o mesmo e-mail com o qual se cadastrou no Globally Recognized Avatar sua foto aparecerá automaticamente junto ao comentário! E é isso que acontece aqui no Ponto G!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">Uffa!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<blockquote><address style="text-align: justify;"><span style="font-style: normal;">Mas, Tia Geca, como eu me cadastro nessa maravilha de site e faço minhas fotos aparecerem no seu blog????</span></address>
+</blockquote>
+<address style="text-align: justify;"><span style="font-style: normal;">É muito simples, amores da tia:</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">1º) Acessem <a title="Gravatar" href="http://pt.gravatar.com/" target="_blank">http://pt.gravatar.com/</a>;</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;">2º) Na parte superior do site posicione o cursor sobre "Iniciar Sessão / Registrar" e clique em "Registrar";</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;">3º) Feito isso aparecerá uma nova janela solicitando o e-mail com o qual você deseja cadastrar a imagem (que tem que ser o mesmo com o qual vocês comentam nos blogs), preencha o campo e clique em "Signup";</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;">4º) Uma solicitação será enviada para o e-mail cadastrado, entre em sua caixa de e-mail e clique no link de confirmação;</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;">5º) Clique no link que chegou em seu e-mail e mais uma janela será aberta, desta vez pedindo seu Username e senha, faça o que ele manda e clique em "Signup" ;</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;">6º) Mais uma página... Mas agora você já está cadastrado! Como eu suponho que esse seja seu primeiro cadastro eles dirão que você não tem nenhuma foto! (Oh!) Clique em "Add one by clicking here" e siga os procedimentos de upload de fotos!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">Voilà! Agora sua foto aparecerá no Ponto G!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><span style="color: #ff0000;">Obs.</span>: Se quiser tem a possibilidade de cadastrar mais de um e-mail e uma foto para cada um ou a mesma para todos!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">Espero que a postagem seja de bom proveito para os senhores meus leitores!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">Bjoks e até o próximo post!</span></address>
+<address style="text-align: justify;"><span style="font-style: normal;"><br />
+</span></address>
+<address style="text-align: justify;"></address>
+<address style="text-align: justify;"><span style="font-style: normal;">See ya!</span></address>
+<address style="text-align: justify;"></address>
+<pre style="text-align: right;"><span style="font-style: normal;"><span style="color: #ffff00;">Postagem feita ao som de Beatles</span></span></pre>
+<pre style="text-align: right;"><span style="font-style: normal;"><span style="color: #ffff00;">
+</span></span></pre>
+<address style="text-align: justify;"></address>

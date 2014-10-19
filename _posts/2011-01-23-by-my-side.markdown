@@ -1,0 +1,71 @@
+---
+layout: post
+status: publish
+published: true
+title: By My Side
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 597
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=597
+date: '2011-01-23 22:24:57 -0500'
+date_gmt: '2011-01-24 01:24:57 -0500'
+categories:
+- Musica
+tags:
+- pin-up
+- soja
+- soldiers of jah army
+---
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_28.png"></a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_15.png"><img class="aligncenter size-medium wp-image-594" title="PinUp_15" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_15-300x300.png" alt="" width="300" height="300" /></a></p>
+<div style="text-align: center;">Eu ajo como se eu a tivesse deixado,mas eu realmente imploro a ela pra ficar.</div>
+<div style="text-align: center;">E quanto mais eu a pressiono mais ela foge.</div>
+<div style="text-align: center;">Eu ajo como se eu não precisasse dela mas... você é necessária...</div>
+<div style="text-align: center;">Como daqui a dez dias que eu não verei seu rosto quando eu dormir.</div>
+<p style="text-align: center;">
+<div style="text-align: center;">Ajo como se eu pudesse ouvir, mas Jah sabe que estou surdo</div>
+<div style="text-align: center;">Ajo como se eu pudesse ver mas agora, eu perdi a visão</div>
+<div style="text-align: center;">Ajo como se eu não soubesse mas, eu sei essas coisas...</div>
+<div style="text-align: center;">Ajo como se eu não sentisse mas eu vou sentir isso, cada manhã agora em...</div>
+<p style="text-align: center;">
+<div style="text-align: center;"><strong>Cada manhã, em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você do meu lado</strong></div>
+<div style="text-align: center;"><strong>em cada manhã e em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você</strong></div>
+<p style="text-align: center;">
+<div style="text-align: center;">Como se eu não me importasse, mas todo tempo</div>
+<div style="text-align: center;">o seu rosto atravessa e nunca deixa a minha mente.</div>
+<div style="text-align: center;">Oh, como se eu não soubesse mas, eu sei o que você sabe</div>
+<div style="text-align: center;">como se eu não sentisse isso, mas eu vou sentir toda</div>
+<div style="text-align: center;">noite agora em...</div>
+<p style="text-align: center;">
+<div style="text-align: center;"><strong>Cada manhã, em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você do meu lado</strong></div>
+<div style="text-align: center;"><strong>em cada manhã e em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você</strong></div>
+<p style="text-align: center;">
+<div style="text-align: center;">Eu ajo como se eu a tivesse deixado, mas a verdade é que eu imploro, imploro</div>
+<div style="text-align: center;">a ela pra ficar...</div>
+<div style="text-align: center;">E quanto mais eu a pressiono, significa que ela</div>
+<div style="text-align: center;">foge muito mais.</div>
+<div style="text-align: center;">Ajo como se eu não precisasse dela, mas estou aqui pra te dizer</div>
+<div style="text-align: center;">que você é necessária.</div>
+<div style="text-align: center;">Como daqui a dez dias que eu não verei o seu rosto quando eu em...</div>
+<p style="text-align: center;">
+<div style="text-align: center;"><strong>Cada manhã, em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você do meu lado</strong></div>
+<div style="text-align: center;"><strong>em cada manhã e em cada noite</strong></div>
+<div style="text-align: center;"><strong>quando eu preciso de você do meu lado.</strong></div>
+<p style="text-align: center;">
+<div style="text-align: center;">Em cada manhã e em cada noite quando eu preciso de você tão</div>
+<div style="text-align: center;">desesperadamente.</div>
+<p><br/><br/></p>
+<div style="text-align: center;"><span style="color: #99cc00;">Soldiers Of Jah Army</span></div>
+<div style="text-align: center;"></div>
+<p><br/></p>
+<div style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/02-By-My-Side.mp3">By My Side</a></div>
+<p style="text-align: center;">

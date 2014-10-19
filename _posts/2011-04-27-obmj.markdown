@@ -1,0 +1,51 @@
+---
+layout: post
+status: publish
+published: true
+title: Orquestra Brasileira de Música Jamaicana
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 806
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=806
+date: '2011-04-27 22:24:37 -0400'
+date_gmt: '2011-04-28 01:24:37 -0400'
+categories:
+- Dicas
+- Musica
+tags:
+- musica
+- reggae
+- retro
+- obmj
+- orquestra
+- ska
+---
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/OMGimsoretro.png"><img class="aligncenter size-medium wp-image-807" title="OMGimsoretro" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/OMGimsoretro-225x300.png" alt="" width="225" height="300" /></a></p>
+<p style="text-align: justify;">Hello, my dear friends!</p>
+<p style="text-align: justify;">Hoje eu decidi que não deixarei esse blog morrer! Não! Vocês não ficarão sem minhas incríveis e indispensáveis postagens!</p>
+<p style="text-align: justify;">E para me redimir por todo esse tempo sem postar tenho que trazer novidades, não é mesmo? Que tal sobre música? Afinal de contas todo mundo gosta de música!</p>
+<p style="text-align: justify;">E é com muito alegria que eu apresento para vocês a banda Orquestra Brasileira de Música Jamaicana (uffa!). Aí você me diz: - Mas, hein?!? Sim, é esse mesmo o nome da banda, abreviado carinhosamente para OBMJ. Ok, vocês ainda não entenderam o porquê do nome, não é? Calma, eu explico:</p>
+<p style="text-align: justify;">Como todos vocês, meus leitores assíduos, sabem eu sou uma exímia (aham, tá) fã de reggae e essa banda segue o estilo de nada mais, nada menos que o Ska (hã?). Para quem não sabe o Ska foi o precursor do Reggae e do Rocksteady estilos originários da Jamaica.</p>
+<p style="text-align: justify;">- Ok, Tia. Beleza. Entendi o "música Jamaicana", mas o que que tem de brasileiro nisso? Os artistas da banda?</p>
+<p style="text-align: justify;">Explico:</p>
+<p style="text-align: justify;">Pode até ser isso, buuuuuuut acredito que o principal motivo seja porque eles não tocam músicas quaisquer, eles fazem releituras de músicas genuinamente brasileiras, como "Carinhoso", "Tico-Tico no Fubá" e, pasmem, "O Guarani", sim, aquela ópera mesmo! Inclusive foi essa última que me fez ficar viciada na banda, adoro pessoas criativas!</p>
+<p style="text-align: justify;">- Hmmmm, interessante. Mas... Orquestra?</p>
+<p style="text-align: justify;">Sim! Assim como The Skatalites esses caras entram em palco com vários instrumentos, uma orquestra, não? E tenho que falar que o baixist... digo baixo deles é lindo! <span style="color: #ff0000;">s2</span></p>
+<p style="text-align: justify;">Bem, agora com vocês, a Orquestra Brasileira de Música Jamaicana com a música que eu mais gosto, é claro: O Guarani.</p>
+<p><iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/jJlgjEZ6s9E" frameborder="0" allowfullscreen></iframe><br />
+&nbsp;<br />
+Site: <a href="http://www.obmj.net/" target="_blank" >http://www.obmj.net/</a></p>
+<p>&nbsp;</p>
+<p>See ya!</p>
+<p>P.S.: Ficaram se perguntando sobre essa imagem no começo do post, não é? Eu sei que ficaram! Mas eu mato a curiosidade de vocês. Não é nada de especial só comprei um botton com essa imagem e quis compartilhar! hehe</p>
+<pre style="text-align: right;"><span style="color: #ffff00;">
+</span></pre>
+<pre style="text-align: right;"><span style="color: #ffff00;">Postagem feita ao som de O Guarani, versão da OBMJ</span></pre>
+<pre style="text-align: right;"><span style="color: #ffff00;">
+</span></pre>
+<p>&nbsp;</p>

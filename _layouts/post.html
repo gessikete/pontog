@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="post" id="post-1169">
+  <h4 class="date">{{ page.date | date: "%b %-d, %Y" }}</h4>
+  <h2 class="headline">
+    <a href="{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </h2>
+
+  <div class="entry">
+    {{ content }}
+
+    <p class="postmetadata altd">
+      Tags:
+      {% for tag in page.tags %}
+        {{ tag }}
+      {% endfor %}
+
+      <br/>
+
+      Categorias:
+
+      {% for category in page.categories %}
+        {{ category }}
+      {% endfor %}
+    </p>
+
+    <div class="comment">
+      <p></p>
+      <h4> <a href="#" class="comments-link">2 Comentários</a> </h4>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Dicas: Le Fabuleux Destin D''Amelie Poulain'
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 14
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=14
+date: '2010-05-04 21:27:17 -0400'
+date_gmt: '2010-05-05 00:27:17 -0400'
+categories:
+- Dicas
+- Filmes
+tags:
+- musica
+---
+<p>Confesso: Estou viciada nesse negócio de blog! *-*</p>
+<p>Essa vai ser a primeira dica sobre coisas que eu gosto! *-*</p>
+<p>Let's go!</p>
+<p>Le Fabuleux Destin D'Amelie Poulain é o filme mais delicado e lindo que eu já vi. Sério mesmo! Ele conta a história do "Destino de Amelie" (confesso, não sou boa em resenha de filmes) e o que mais me chamou atenção nele é a importância que detalhes, que às vezes deixamos passar despercebidos, tem na nossa vida (no caso na vida dela =3).</p>
+<p>Enfim, é um filme lindo que vale a pena gastar horas baixando (ou gastar o seu precioso dinheirinho comprando um original) para ver. E para dar uma ajuda caso você goste, segue o link para o download da trilha sonora (sei que isso não vai te influenciar, meu caro leitor, mas, se curtir, pode comprar também!), que deixa o filme mais bonito ainda.</p>
+<p><a href="http://saindobarato.files.wordpress.com/2009/06/le-fabuleux-destin-d-amelie-poulain.jpg"><img class="aligncenter" title="Amelie Poulain" src="http://saindobarato.files.wordpress.com/2009/06/le-fabuleux-destin-d-amelie-poulain.jpg" alt="" width="352" height="272" /></a></p>
+<p style="text-align: center;"><a title="Le Fabuleux Destin D'Amelie Poulain" href="http://www.4shared.com/dir/38881985/eeebb2d4/Le_Fabuleux_Destin_dAmelie_Pou.html" target="_blank">Le Fabuleux Destin D'Amelie Poulain</a></p>

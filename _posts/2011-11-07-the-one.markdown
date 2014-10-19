@@ -1,0 +1,68 @@
+---
+layout: post
+status: publish
+published: true
+title: The One
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 1021
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1021
+date: '2011-11-07 12:59:26 -0500'
+date_gmt: '2011-11-07 14:59:26 -0500'
+categories:
+- Musica
+tags:
+- foo fighters
+- the one
+---
+<p style="text-align: center;">Everyone makes one mistake<br />
+One more time for old times sake<br />
+One more time before the feeling fades</p>
+<p style="text-align: center;">One that’s born of memories<br />
+One more bruise you gave to me<br />
+One more test just how much can I take</p>
+<p style="text-align: center;">Because you’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like shit</p>
+<p style="text-align: center;">Something never meant to be<br />
+Everything you meant to me<br />
+Wake me when this punishment is done</p>
+<p style="text-align: center;">Those who try and get away<br />
+From the one who gets away<br />
+Someone’s always someone else’s one</p>
+<p style="text-align: center;">Because you’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like shit<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like shit</p>
+<p style="text-align: center;">Until the end of time<br />
+In another life<br />
+Until the day I die<br />
+Save it up for one more try<br />
+Save it for the last goodbye<br />
+We go on and get off<br />
+And get on and get off</p>
+<p style="text-align: center;">Because you’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like shit<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like shit</p>
+<p style="text-align: center;">Because you’re not the one but you’re the only one<br />
+Who can make me feel like this<br />
+You’re not the one but you’re the only one<br />
+Who can make me feel like<br />
+Ohhhhhhhhh shit</p>
+<p>&nbsp;</p>
+<p><iframe width="550" height="445" src="http://www.youtube.com/embed/kHkZJ0bGGwE" frameborder="0" allowfullscreen></iframe></p>

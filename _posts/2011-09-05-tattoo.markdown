@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Tattoo
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 990
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=990
+date: '2011-09-05 20:56:48 -0400'
+date_gmt: '2011-09-05 23:56:48 -0400'
+categories:
+- Imagens
+tags: []
+---
+<p style="text-align: center;"><a href="http://weheartit.com/entry/14325996" target="_blank"><img class="aligncenter size-full wp-image-991" title="pinup" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/09/tumblr_lp1krqqYkA1qfnr0ro1_500_large.jpg" alt="" width="500" height="630" /></a><a href="http://weheartit.com/entry/14325996"><br />
+</a></p>

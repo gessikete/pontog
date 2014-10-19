@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Vícios
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 909
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=909
+date: '2011-06-15 12:06:02 -0400'
+date_gmt: '2011-06-15 15:06:02 -0400'
+categories:
+- Desabafos
+tags:
+- vício
+- ragnarok
+- osu! tatakae! ouendan
+- the legend of zelda
+- spirit tracks
+- eu não tenho coordenação motora
+- ritmo
+- os jogos da nintendo são os melhores
+- pareço criança
+---
+<p style="text-align: justify;">Olá, amores.</p>
+<p style="text-align: justify;">Sempre me achei uma pessoa muito passível a vícios e isso se comprova sempre que conheço um novo jogo. Porém depois de jogar até cair os dedos o vício também vai embora na mesma velocidade em que o entusiasmo veio. O que me deixa em um círculo vicioso eterno (literalmente).</p>
+<p style="text-align: justify;">Listarei para vocês meus atuais vícios:</p>
+<p style="text-align: justify;"><span style="color: #99cc00;">Ragnarok.</span> Há muito tempo eu comecei a jogar no servidor gratuito, até encontrei amiguinhos mas o grupo se desfez e eu parei de jogar. No mês passado aparece um amigo dizendo que ia voltar a jogar e me chamou também, mas para jogar no pago. Como todo mundo estava jogando lá vou eu de novo para o vício. Só que quando você chega em um lvl um pouquinho mais alto fica chato demais para upar e nessa brincadeira eu já criei mais dois personagens... Vou acabar ficando com um personagem de cada classe!</p>
+<p style="text-align: justify;"><span style="color: #99cc00;"><em>Osu</em>! Tatakae!  Ouendan.</span> É meio que um jogo de rítmo para Nintendo DS. A ideia do jogo é mais ou menos como se fossem líderes de torcida que fazem suas dancinhas para incentivarem outras pessoas (que pediram ajuda) a conseguirem sucesso no que têm que fazer. É nessa hora que você entra fazendo papel dos líderes de torcida, controlando os seus movimentos... Bem divertido. Estou com o 1 e o 2 de <em>Osu</em>! Tatakae!  Ouendan, que são em japonês e um Elite Beat Agents, que é a versão americana. Porém estou travada na última música nos três!!!!!!! Ah! E em japonês é muito mais legal.</p>
+<p style="text-align: justify;"><span style="color: #99cc00;">The Legend of Zelda: Spirit Tracks.</span> É a terceira vez que jogo. Dessa vez em um cartucho original! Todo mundo sabe que Zelda é um jogo incrível, com vários enigmas legais e tal. É um dos RPG's que eu mais gosto, acho que entra na briga no mesmo nível que Pokémon. Enfim, comecei de novo ontem, vamos ver no que isso vai dar.</p>
+<p style="text-align: justify;">No final das contas nem foram tantos como eu pensava que era... Acredito que pelo fato de eu nunca ter conseguido zerar nenhum jogo sozinha vivo nesse círculo de tentativas e frustrações. Felizmente, ou não, isso não me impede e eu continuo jogando. Espero conseguir terminar algum jogo um dia...</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">Bjoks and See Ya!</p>
+<pre style="text-align: right;"><span style="color: #ffff00;">Postagem feita ao som de Gong Li, Red Hot Chili Peppers</span></pre>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 207px; width: 1px; height: 1px; overflow: hidden;">
+<h1 id="firstHeading" class="firstHeading"><em><em>The Legend of Zelda: Spirit Tracks</em></em></h1>
+</div>

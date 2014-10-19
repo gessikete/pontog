@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+  <div class="post" id="post-1169">
+    <h4 class="date">{{ page.date | date: "%b %-d, %Y" }}</h4>
+    <h2 class="headline">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <div class="entry">
+      {{ post.content }}
+
+      <div class="comment">
+        <p></p>
+        <h4> <a href="#" class="comments-link">2 Comentários</a> </h4>
+      </div>
+    </div>
+  </div>
+{% endfor %}

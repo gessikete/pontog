@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: Tex
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 660
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=660
+date: '2011-02-02 20:56:04 -0500'
+date_gmt: '2011-02-02 23:56:04 -0500'
+categories:
+- Dicas
+- Participações Especiais
+tags:
+- pin-up
+- tex
+- quadrinhos
+- hq
+---
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_32.png"><img class="aligncenter size-medium wp-image-661" title="PinUp_32" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_32-294x300.png" alt="" width="294" height="300" /></a></p>
+<p style="text-align: justify;">Olá, amores da Tia!</p>
+<p style="text-align: justify;">Hoje trago para vocês conhecerem na seção "Participações Especiais", a minha amissíssima do peito Alana (também conhecida como Rapaz), dona do blog <a title="Delicada Perversão" href="http://delicada-perversao.blogspot.com/" target="_blank">Delicada Perversão</a>. Para minha alegria ela apresenta para vocês uma série de quadrinhos que é novidade até para mim! Fiquem com uma ótima dica da minha jornalista predileta! Enjoy!</p>
+<blockquote>
+<p style="text-align: justify;">Qualquer pessoa que visita regularmente o blog Ponto G já deve ter notado uma coisa: ele está cheio de dicas sobre músicas, filmes, livros, animes, quadrinhos, mangas, eventos, e até receitas de comidas suculentas oferecidas e sugeridas pela nossa querida Géssica. Se o lema do blog é “Coisas que gosto de fazer”, então só podemos supor que Gess (ou Tia Geca, para os íntimos) tem muito bom gosto! Sem falsa modéstia, nós temos gostos bem parecidos e talvez seja por isso que ela me convidou pra fazer uma postagem aqui no Ponto G, sobre um tema de minha preferência, como forma de diversificar o conteúdo.</p>
+<p style="text-align: justify;">Levando em conta todo o histórico do blog resolvi então trazer-lhes mais uma sugestão sobre algo que eu e Gess compartilhamos o gosto: leitura de quadrinhos. Escolhi falar agora da série western “Tex”, criada em 1948 pelos italianos Gian Luigi Bonelli e Aurélio Gallepini, e que se tornou um clássico de longa duração no gênero. “Tex” acompanha as aventuras e missões do ranger texano Tex Willer, um homem durão e destemido guiado apenas por seu senso de justiça e pela confiança no próprio gatilho.</p>
+<p><a href="http://texwillerblog.com/wordpress/wp-content/uploads/2010/08/O-Tex-de-Magnus.jpg"><img class="aligncenter size-medium wp-image-662" title="O Tex de Magnus" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/O-Tex-de-Magnus-218x300.jpg" alt="" width="218" height="300" /></a></p>
+<p style="text-align: justify;">A série ganhou popularidade a partir de meados dos anos 50 justamente pelas características de seu protagonista, que se sobressaíam com relação aos quadrinhos correntes da época, voltados para um público infanto-juvenil. Tex Willer é um cara carismático justamente porque não quer agradar ninguém: seu passado inclui vinganças sangrentas, perseguições policiais, momentos de fora-da-lei, assassinatos, julgamentos baseados em apenas um olhar, entre outras coisas. Mas uma coisa é incontestável sobre ele: poucos no velho oeste possuem um senso de justiça tão grande, sempre pronto a defender brancos, negros ou índios, que este bravo ranger.</p>
+<p><a href="http://hqmaniacs.uol.com.br/img/materia/tex60anos_img09.jpg"><img class="aligncenter size-medium wp-image-663" title="Tex 60 Anos" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/tex60anos_img09-240x300.jpg" alt="" width="240" height="300" /></a></p>
+<p style="text-align: justify;">Nas histórias, Tex está quase sempre acompanhado por algum de seus amigos, ou Kit Carson, um ranger veterano, Jack Tigre, índio do povo navajo, ou Kit Willer, filho de Tex com a índia também navajo Lilyth (Lírio Branco). Outra coisa interessante sobre o protagonista é que ele goza de imenso prestígio entre a maioria dos povos indígenas americanos, sendo que aqueles que não o respeitam por admirá-lo, respeitam-no por temê-lo. Tex é mesmo o líder do povo Navajo, conseguindo tal feito através de seu casamento com Lilyth, filha do chefe Flecha Vermelha. Após a morte do pai de sua esposa, Tex torna-se o líder por direito, demonstrando a partir de então preocupação ainda maior com os povos indígenas (que o chamam Águia da Noite) e determinação em defendê-los.</p>
+<p><a href="http://texwiller.blog.com/files/2009/07/poster-tnr-114.jpg"><img class="aligncenter size-medium wp-image-664" title="Tex Poster" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/poster-tnr-114-212x300.jpg" alt="" width="212" height="300" /></a></p>
+<p style="text-align: justify;">Sobre os aspectos artísticos, a série é quase sempre desenhada em preto e branco, com apenas algumas edições especiais coloridas. As histórias tratam desde contrabando de armas, até assalto a trens, roubo de bancos, de gado, tentativas de assassinato contra Tex ou um de seus amigos, entre outros. Interessante falar sobre a riqueza de detalhes dos desenhos, seja na vestimenta dos personagens ou na composição dos ambientes, que nos permitem vislumbrar melhor como eram as pessoas da época. Há também uma preocupação muito grande quanto às referências históricas, etc.</p>
+<p style="text-align: justify;">No que se refere à publicação, “Tex” era lançada no Brasil pela Mythos Editora, mas não sei se ainda são lançados volumes atualmente. Para maiores informações vocês podem consultar este <a title="FAQ" href="http://www.texbr.com/texfaq.htm" target="_blank">FAQ</a> que é interessantíssimo e conta com inúmeras perguntas respondidas sobre a série e suas principais características. No mais, é só, espero que tenham gostado e fiquem bem!</p>
+</blockquote>
+<p>See ya!</p>
+<pre style="text-align: right;"><span style="color: #ffff00;">Postagem feita sem trilha sonora</span></pre>

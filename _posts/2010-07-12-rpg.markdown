@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: RPG
+author:
+  display_name: Géssica Sodré
+  login: admin
+  email: gnsodre@gmail.com
+  url: ''
+author_login: admin
+author_email: gnsodre@gmail.com
+wordpress_id: 166
+wordpress_url: http://localhost/~volmer/pontog/pontog/?p=166
+date: '2010-07-12 23:33:27 -0400'
+date_gmt: '2010-07-13 02:33:27 -0400'
+categories:
+- Dicas
+- Eventos
+tags:
+- rpg
+- ds
+- WoD
+---
+<p>Oi novamente, amigos leitores...</p>
+<p>Estou meio pra baixo hoje... Então vou escrever mais esse post.</p>
+<p>Ao contrário dessa segunda-feira, a semana passada foi bem agitada e regada à muito RPG.</p>
+<p>Tivemos Pokémon TCG:</p>
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02705.jpg"><img class="aligncenter size-medium wp-image-167" title="TCG" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02705-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p>Mago: o despertar, mestrado por <a title="Escracho Diário" href="http://escracho-diario.blogspot.com/" target="_blank">Alana</a>:</p>
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02684.jpg"><img class="aligncenter size-medium wp-image-168" title="Mago: o despertar" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02684-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p>E também O Mundo das Trevas, jogando com personagens mortais *-*, mestrado por <a title="O Mundo das Trevas" href="http://mundodastrevas.com/" target="_blank">Volmer</a>:</p>
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02846.jpg"><img class="aligncenter size-medium wp-image-169" title="O Mundo das Trevas" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02846-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p>Além de muito Mario no DS:</p>
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02687.jpg"><img class="aligncenter size-medium wp-image-170" title="Su - DS" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02687-225x300.jpg" alt="" width="225" height="300" /></a></p>
+<p>E aqui estão alguns RPGistas de Correntina:</p>
+<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02855.jpg"><img class="aligncenter size-medium wp-image-171" title="RPGistas" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC02855-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><span style="color: #0000ff;">Bye, bye, Friends... </span></p>
