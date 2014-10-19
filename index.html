@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <div class="post" id="post-1169">
     <h4 class="date">{{ page.date | date: "%b %-d, %Y" }}</h4>
     <h2 class="headline">
@@ -21,3 +21,18 @@ layout: default
     </div>
   </div>
 {% endfor %}
+
+<!-- Pagination links -->
+<div class="navigation clearfix">
+  {% if paginator.next_page %}
+    <div class="alignleft">
+      <a href="/page{{ paginator.next_page }}">&laquo; Posts Antigos</a>
+    </div>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <div class="alignright">
+      <a href="/page{{ paginator.previous_page }}">Novos Posts &raquo;</a>
+    </div>
+  {% endif %}
+</div>
