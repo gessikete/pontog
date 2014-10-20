@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 603
 wordpress_url: http://pontog.radicaos.com/?p=603
-date: '2011-01-24 17:30:28 -0500'
-date_gmt: '2011-01-24 20:30:28 -0500'
+date: '2011-01-24 17:30:28'
+date_gmt: '2011-01-24 20:30:28'
 categories:
 - Musica
 tags: []

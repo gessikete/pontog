@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 797
 wordpress_url: http://pontog.radicaos.com/?p=797
-date: '2011-04-27 18:11:16 -0400'
-date_gmt: '2011-04-27 21:11:16 -0400'
+date: '2011-04-27 18:11:16'
+date_gmt: '2011-04-27 21:11:16'
 categories:
 - Dicas
 - Imagens

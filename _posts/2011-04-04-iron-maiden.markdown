@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 769
 wordpress_url: http://pontog.radicaos.com/?p=769
-date: '2011-04-04 10:56:57 -0400'
-date_gmt: '2011-04-04 13:56:57 -0400'
+date: '2011-04-04 10:56:57'
+date_gmt: '2011-04-04 13:56:57'
 categories:
 - Eventos
 - Musica

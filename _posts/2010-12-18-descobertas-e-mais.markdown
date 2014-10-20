@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 547
 wordpress_url: http://pontog.radicaos.com/?p=547
-date: '2010-12-18 12:12:18 -0500'
-date_gmt: '2010-12-18 15:12:18 -0500'
+date: '2010-12-18 12:12:18'
+date_gmt: '2010-12-18 15:12:18'
 categories:
 - Dicas
 - Eventos

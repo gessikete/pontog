@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 352
 wordpress_url: http://pontog.radicaos.com/?p=352
-date: '2010-09-28 12:34:33 -0400'
-date_gmt: '2010-09-28 15:34:33 -0400'
+date: '2010-09-28 12:34:33'
+date_gmt: '2010-09-28 15:34:33'
 categories:
 - Receitas
 tags:

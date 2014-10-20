@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 926
 wordpress_url: http://pontog.radicaos.com/?p=926
-date: '2011-06-30 23:01:41 -0400'
-date_gmt: '2011-07-01 02:01:41 -0400'
+date: '2011-06-30 23:01:41'
+date_gmt: '2011-07-01 02:01:41'
 categories:
 - Dicas
 - Livros

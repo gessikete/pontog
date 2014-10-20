@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 975
 wordpress_url: http://pontog.radicaos.com/?p=975
-date: '2011-08-26 15:23:41 -0400'
-date_gmt: '2011-08-26 18:23:41 -0400'
+date: '2011-08-26 15:23:41'
+date_gmt: '2011-08-26 18:23:41'
 categories:
 - Dicas
 - Desabafos

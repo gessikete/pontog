@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1091
 wordpress_url: http://pontog.radicaos.com/?p=1091
-date: '2012-02-04 15:07:13 -0500'
-date_gmt: '2012-02-04 17:07:13 -0500'
+date: '2012-02-04 15:07:13'
+date_gmt: '2012-02-04 17:07:13'
 categories:
 - New
 - Filmes

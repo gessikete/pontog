@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1135
 wordpress_url: http://pontog.radicaos.com/?p=1135
-date: '2012-07-05 11:26:47 -0400'
-date_gmt: '2012-07-05 14:26:47 -0400'
+date: '2012-07-05 11:26:47'
+date_gmt: '2012-07-05 14:26:47'
 categories:
 - Wandos do meu Brasil
 - New

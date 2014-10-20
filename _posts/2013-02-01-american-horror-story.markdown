@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1204
 wordpress_url: http://pontog.radicaos.com/?p=1204
-date: '2013-02-01 20:45:43 -0500'
-date_gmt: '2013-02-01 22:45:43 -0500'
+date: '2013-02-01 20:45:43'
+date_gmt: '2013-02-01 22:45:43'
 categories:
 - New
 - Seriado

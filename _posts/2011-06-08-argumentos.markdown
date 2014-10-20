@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 894
 wordpress_url: http://pontog.radicaos.com/?p=894
-date: '2011-06-08 20:34:33 -0400'
-date_gmt: '2011-06-08 23:34:33 -0400'
+date: '2011-06-08 20:34:33'
+date_gmt: '2011-06-08 23:34:33'
 categories:
 - Desabafos
 - Aconteceu comigo

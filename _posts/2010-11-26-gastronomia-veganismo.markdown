@@ -12,8 +12,8 @@ author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 524
 wordpress_url: http://pontog.radicaos.com/?p=524
-date: '2010-11-26 22:26:17 -0500'
-date_gmt: '2010-11-27 01:26:17 -0500'
+date: '2010-11-26 22:26:17'
+date_gmt: '2010-11-27 01:26:17'
 categories:
 - Dicas
 - Participações Especiais
