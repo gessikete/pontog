@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-  <div class="post" id="post-1169">
+  <div class="post">
     <h4 class="date">{{ page.date | date: "%b %-d, %Y" }}</h4>
     <h2 class="headline">
       <a href="{{ post.url | prepend: site.baseurl }}">
@@ -15,8 +15,7 @@ layout: default
       {{ post.content }}
 
       <div class="comment">
-        <p></p>
-        <h4> <a href="#" class="comments-link">2 Comentários</a> </h4>
+        <h4> <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" class="comments-link">Comentários</a> </h4>
       </div>
     </div>
   </div>
