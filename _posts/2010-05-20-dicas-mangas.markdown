@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 34
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=34
+wordpress_url: http://pontog.radicaos.com/?p=34
 date: '2010-05-20 10:51:04 -0400'
 date_gmt: '2010-05-20 13:51:04 -0400'
 categories:
@@ -21,7 +21,7 @@ tags:
 - vício
 ---
 <p>Devo confessar: Eu AMO mangás!</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/05/DSC04479-Cópia.jpg"><img class="aligncenter size-full wp-image-36" title="Eu - Mangás" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/05/DSC04479-Cópia.jpg" alt="" width="448" height="280" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/05/DSC04479-Cópia.jpg"><img class="aligncenter size-full wp-image-36" title="Eu - Mangás" src="http://pontog.radicaos.com/wp-content/uploads/2010/05/DSC04479-Cópia.jpg" alt="" width="448" height="280" /></a></p>
 <p>É, amigos leitores, essa paixonite começou a pouco tempo (menos de dois anos, eu acho), porém me vejo viciada em ler mangás como nunca estive com qualquer outra coisa. *¬*</p>
 <p>Mangá é algo totalmente diferente de livros, por exemplo (opinião pessoal)... Cada autor tem seu estilo, cada desenhista seu traço e cada história é particularmente viciante. É muito interessante ler e sentir a diferença de culturas, tradições em todo o desenrolar das "aventuras". Além de ser impressionante a quantidade de mitos japoneses (ou não), incorporados nessas histórias. Todos tem um tom de misticismo, parecem distantes da realidade, porém sempre dá pra você imaginar aquilo acontecendo de verdade.</p>
 <p>Devo confessar (novamente) que já senti várias vezes vontade de largar essa realidade chata em que vivemos e ser um personagem de mangá, com aqueles olhos grandes, aquelas expressões, o jeito de falar... Talvez um personagem de Slam Dunk e morrer de rir a cada aparição na história.</p>

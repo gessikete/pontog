@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1169
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1169
+wordpress_url: http://pontog.radicaos.com/?p=1169
 date: '2013-01-25 10:00:01 -0500'
 date_gmt: '2013-01-25 12:00:01 -0500'
 categories:
@@ -27,7 +27,7 @@ tags: []
 <p style="text-align: justify;">
 <p style="text-align: justify;">Bjoks e um xêro. Até logo menos.</p>
 <p>&nbsp;</p>
-<p><a href="http://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Poster_Orphan.jpg/200px-Poster_Orphan.jpg"><img class="alignnone size-full wp-image-1172" title="Orphan" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2013/01/200px-Poster_Orphan.jpg" alt="" width="200" height="297" /></a></p>
+<p><a href="http://upload.wikimedia.org/wikipedia/pt/thumb/7/71/Poster_Orphan.jpg/200px-Poster_Orphan.jpg"><img class="alignnone size-full wp-image-1172" title="Orphan" src="http://pontog.radicaos.com/wp-content/uploads/2013/01/200px-Poster_Orphan.jpg" alt="" width="200" height="297" /></a></p>
 <h2><span style="text-decoration: underline;">Orphan</span></h2>
 <p><span style="text-decoration: underline;">Direção</span>: Jaume Collet-Serra</p>
 <p><span style="text-decoration: underline;">Ano</span>: 2009</p>

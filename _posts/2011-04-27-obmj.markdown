@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 806
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=806
+wordpress_url: http://pontog.radicaos.com/?p=806
 date: '2011-04-27 22:24:37 -0400'
 date_gmt: '2011-04-28 01:24:37 -0400'
 categories:
@@ -25,7 +25,7 @@ tags:
 - orquestra
 - ska
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/OMGimsoretro.png"><img class="aligncenter size-medium wp-image-807" title="OMGimsoretro" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/OMGimsoretro-225x300.png" alt="" width="225" height="300" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/OMGimsoretro.png"><img class="aligncenter size-medium wp-image-807" title="OMGimsoretro" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/OMGimsoretro-225x300.png" alt="" width="225" height="300" /></a></p>
 <p style="text-align: justify;">Hello, my dear friends!</p>
 <p style="text-align: justify;">Hoje eu decidi que não deixarei esse blog morrer! Não! Vocês não ficarão sem minhas incríveis e indispensáveis postagens!</p>
 <p style="text-align: justify;">E para me redimir por todo esse tempo sem postar tenho que trazer novidades, não é mesmo? Que tal sobre música? Afinal de contas todo mundo gosta de música!</p>

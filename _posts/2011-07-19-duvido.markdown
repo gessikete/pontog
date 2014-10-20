@@ -11,12 +11,12 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 957
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=957
+wordpress_url: http://pontog.radicaos.com/?p=957
 date: '2011-07-19 17:13:53 -0400'
 date_gmt: '2011-07-19 20:13:53 -0400'
 categories:
 - Imagens
 tags: []
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/07/duvido.jpg"><img class="aligncenter size-full wp-image-959" title="Duvido" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/07/duvido.jpg" alt="" width="500" height="373" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/07/duvido.jpg"><img class="aligncenter size-full wp-image-959" title="Duvido" src="http://pontog.radicaos.com/wp-content/uploads/2011/07/duvido.jpg" alt="" width="500" height="373" /></a></p>
 <p>Duvido alguém saber de onde é essa imagem.</p>

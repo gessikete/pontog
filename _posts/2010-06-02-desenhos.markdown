@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 55
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=55
+wordpress_url: http://pontog.radicaos.com/?p=55
 date: '2010-06-02 22:32:46 -0400'
 date_gmt: '2010-06-03 01:32:46 -0400'
 categories:
@@ -22,4 +22,4 @@ tags: []
 <p>Todo mundo que lê esse blog sabe que eu a-do-ro anime/mangá. E caso você acompanhe o Ponto G, também sabe que a minha primeira postagem foi sobre um evento que eu fui, o Espaço Otaku.</p>
 <p>Bem... Nesse evento eu paguei R$1,00 e consegui um desenho lindo meu versão Chibi... *-*</p>
 <p>Se você gostar, procure pelo menino da assinatura da imagem (eu não consigo ler o nome), ou então vá em um evento de anime que com certeza você encontrará alguém pra fazer um desses pra você! ;D</p>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/06/Digitalizar0001.jpg"><img class="aligncenter  wp-image-56" title="Eu Chibi" alt="" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/06/Digitalizar0001-583x1024.jpg" width="540" height="948" /></a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/06/Digitalizar0001.jpg"><img class="aligncenter  wp-image-56" title="Eu Chibi" alt="" src="http://pontog.radicaos.com/wp-content/uploads/2010/06/Digitalizar0001-583x1024.jpg" width="540" height="948" /></a></p>

@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1194
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1194
+wordpress_url: http://pontog.radicaos.com/?p=1194
 date: '2013-01-31 16:39:54 -0500'
 date_gmt: '2013-01-31 18:39:54 -0500'
 categories:
@@ -32,7 +32,7 @@ tags:
 <p style="text-align: justify;">No final das contas fiquei apaixonadinha pela história bobinha, li todo o mangá, depois vi todo o anime e agora verei o OVA. Sou uma vendida. ''/ Mas #fikadika, o anime é bem rapidinho, tem só 9 episódios, vale a pena pela curiosidade. Vou deixar a abertura para vocês assistirem, é bem bonitinha e cheia de referencias aos filmes da Audrey, minha diva, minha musa.</p>
 <p style="text-align: justify;">Bjoks and see ya at Tiffany's! =*</p>
 <h2><span style="text-decoration: underline;">Rec</span></h2>
-<p><a href="http://anime.3yen.com/wp-content/images/rec01.jpg"><img class="alignnone size-full wp-image-1197" alt="Rec" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2013/01/rec01.jpg" width="234" height="206" /></a></p>
+<p><a href="http://anime.3yen.com/wp-content/images/rec01.jpg"><img class="alignnone size-full wp-image-1197" alt="Rec" src="http://pontog.radicaos.com/wp-content/uploads/2013/01/rec01.jpg" width="234" height="206" /></a></p>
 <p><span style="text-decoration: underline;">Gênero</span>: Drama, Comédia Romântica</p>
 <h3>Mangá</h3>
 <p style="padding-left: 30px;"><span style="text-decoration: underline;">Escrito por</span>: Hanamizawa Q-Tarou</p>

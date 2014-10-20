@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 272
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=272
+wordpress_url: http://pontog.radicaos.com/?p=272
 date: '2010-08-10 15:23:56 -0400'
 date_gmt: '2010-08-10 18:23:56 -0400'
 categories:
@@ -24,7 +24,7 @@ tags:
 - promoção
 - twitter
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_3.png"><img class="alignleft size-medium wp-image-274" title="PinUp_3" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_3-144x300.png" alt="" width="144" height="300" /></a>Olá, Readers!</p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/08/PinUp_3.png"><img class="alignleft size-medium wp-image-274" title="PinUp_3" src="http://pontog.radicaos.com/wp-content/uploads/2010/08/PinUp_3-144x300.png" alt="" width="144" height="300" /></a>Olá, Readers!</p>
 <p>Hoje, enquanto navegava pelo twitter, olha só o que me aparece: uma promoção! Sim, amigos leitores, uma ótima promoção por sinal. Vou explicá-la:</p>
 <p>A promoção é do site <a title="skoob" href="http://www.skoob.com.br/promocao/codigo/207244" target="_blank">skoob</a> (para quem não sabe, o skoob é uma rede social, mas que ao invés de fofocar sobre a vida dos outros você compartilha que livros você anda lendo, osque leu, que pretende ler, além de poder comprar livros também através do site e poder sincronizá-lo com o twitter e tudo mais)  que está sorteando um Ipad ou 100 livros (à sua escolha)! Isso mesmo! Um <span style="color: #ff0000;">IPAD</span> ou <span style="color: #ff0000;">100 LIVROS</span>! E funciona da seguinte forma:</p>
 <p>1 - Se você não tiver cadastro, você entra no site e se cadastra (<a title="skoob" href="http://www.skoob.com.br/promocao/codigo/207244" target="_blank">aqui</a>);</p>

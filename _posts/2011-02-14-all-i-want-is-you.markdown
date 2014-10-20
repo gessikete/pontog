@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 694
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=694
+wordpress_url: http://pontog.radicaos.com/?p=694
 date: '2011-02-14 19:50:59 -0500'
 date_gmt: '2011-02-14 22:50:59 -0500'
 categories:
@@ -22,7 +22,7 @@ tags:
 - music
 - juno
 ---
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_10.png"><img class="aligncenter size-medium wp-image-431" title="PinUp_10" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_10-300x189.png" alt="" width="300" height="189" /></a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_10.png"><img class="aligncenter size-medium wp-image-431" title="PinUp_10" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_10-300x189.png" alt="" width="300" height="189" /></a></p>
 <p style="text-align: center;">Se eu fosse uma flor crescendo selvagem e livre<br />
 Tudo que eu gostaria é que você fosse minha abelhinha<br />
 Se eu fosse uma árvore crescendo alta e verde<br />
@@ -62,4 +62,4 @@ Me segure em seus braços e me balance como o mar</p>
 <p style="text-align: center;">
 <p style="text-align: center;"><span style="color: #99cc00;">Barry Louis Polisar, Juno</span></p>
 <p style="text-align: center;">
-<p style="text-align: center;"><span style="color: #99cc00;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/01-All-I-Want-Is-You.mp3">All I Want Is You</a></span></p>
+<p style="text-align: center;"><span style="color: #99cc00;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/01-All-I-Want-Is-You.mp3">All I Want Is You</a></span></p>

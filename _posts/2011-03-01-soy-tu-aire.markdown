@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 749
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=749
+wordpress_url: http://pontog.radicaos.com/?p=749
 date: '2011-03-01 22:24:48 -0500'
 date_gmt: '2011-03-02 01:24:48 -0500'
 categories:
@@ -70,6 +70,6 @@ tags:
 <p style="text-align: justify;">Essa letra que coloquei acima é da música que você vai pintar. Não tenho outra palavra para descrever essa combinação senão "LINDA".</p>
 <p style="text-align: justify;">Bem, como ficar aqui descrevendo não levará ninguém a lugar nenhum e a graça do experiência é experimentar (!) então acessem o site e divertam-se com essa linda integração de música, arte (redundância?) e tecnologia.</p>
 <p style="text-align: justify;">Acesse: <a title="Soy Tu Aire" href="http://soytuaire.labuat.com/" target="_blank">http://soytuaire.labuat.com/</a></p>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/03/Labuat-Soy-tu-aire.mp3">Labuat - Soy tu aire</a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/03/Labuat-Soy-tu-aire.mp3">Labuat - Soy tu aire</a></p>
 <p style="text-align: justify;">Para os lindinhos que gostarem da música e ficarem com vontade de ouvir mais fica o áudio abaixo! =*</p>
 <p style="text-align: justify;">&nbsp;</p>

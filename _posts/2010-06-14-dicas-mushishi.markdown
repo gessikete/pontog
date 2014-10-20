@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 77
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=77
+wordpress_url: http://pontog.radicaos.com/?p=77
 date: '2010-06-14 17:29:35 -0400'
 date_gmt: '2010-06-14 20:29:35 -0400'
 categories:
@@ -28,4 +28,4 @@ tags:
 <p>Eu me apaixonei pelo Anime e a qualquer hora lerei o mangá também. Fica a dica para vocês e também o link pra quem usa Torrent pra baixar!</p>
 <p><a title="Mushishi Download - Torrent" href="http://isohunt.com/torrent_details/89122181/Mushishi?tab=summary" target="_blank">http://isohunt.com/torrent_details/89122181/Mushishi?tab=summary</a></p>
 <p>Ah! E claro que a trilha sonora é uma apreciação à parte. Cliquem aí em baixo para ouví-la! Linda, Linda por Ally Kerr.</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/06/01-The-Sore-Feet-Song.mp3">The Sore Feet Song - Ally Kerr</a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/06/01-The-Sore-Feet-Song.mp3">The Sore Feet Song - Ally Kerr</a></p>

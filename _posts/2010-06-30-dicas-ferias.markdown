@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 138
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=138
+wordpress_url: http://pontog.radicaos.com/?p=138
 date: '2010-06-30 17:19:58 -0400'
 date_gmt: '2010-06-30 20:19:58 -0400'
 categories:
@@ -31,11 +31,11 @@ tags:
 <p>Para esse jogo tem versões para PC, iPhone, iPad, Mac e Web! Escolha o melhor para você e divirta-se! ^^</p>
 <p><a title="Plants vs Zombies" href="http://thepiratebay.org/torrent/5180197/Plants_vs_Zombies_%5BKTB%5D_-_v1.0.0.1051" target="_blank">BAIXE PLANTS VS ZOMBIES AQUI!</a></p>
 <p>Segundo: Doodles God</p>
-<p><a href="http://haznos.org/doodle-god-game/"><img class="alignright size-full wp-image-143" title="Doodle God" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/06/Sem-título.jpg" alt="" width="300" height="219" /></a>Fui apresentada a esse jogo ontem por uma amiga e consegui zerá-lo hoje! ^^</p>
+<p><a href="http://haznos.org/doodle-god-game/"><img class="alignright size-full wp-image-143" title="Doodle God" src="http://pontog.radicaos.com/wp-content/uploads/2010/06/Sem-título.jpg" alt="" width="300" height="219" /></a>Fui apresentada a esse jogo ontem por uma amiga e consegui zerá-lo hoje! ^^</p>
 <p>A ideia do jogo é bem simples, recriar as coisas da Terra através dos elementos disponíveis! o.Õ</p>
 <p>Então, é isso... Combine os elementos e recrie a Terra!</p>
 <p>Para esse jogo eu só tenho a versão Web. Divirtam-se!</p>
 <p><a title="Doodles God" href="http://haznos.org/doodle-god-game/" target="_blank">JOGAR DOODLES GOD ONLINE!</a></p>
 <p><a href="http://www.nerddogueto.com.br/wordpress-2.9.2/wp-content/uploads/2010/04/Robot-Unicorn-Attack.jpg"><img class="alignleft" title="Robot Unicorn Attack" src="http://www.nerddogueto.com.br/wordpress-2.9.2/wp-content/uploads/2010/04/Robot-Unicorn-Attack.jpg" alt="" width="349" height="262" /></a>E, é claro, tem também Robot Unicorn Attack que foi um dos meus primeiros posts, se quiserem saber acessem o link.</p>
-<p><a title="Robot Unicorn Attack" href="http://localhost/~volmer/pontog/pontog/robot-unicorn-attack/" target="_blank">JOGUEM ROBOT UNICORN ATTACK AQUI!</a></p>
+<p><a title="Robot Unicorn Attack" href="http://pontog.radicaos.com/robot-unicorn-attack/" target="_blank">JOGUEM ROBOT UNICORN ATTACK AQUI!</a></p>
 <p>É isso! Divirtam-se nessas férias! =*</p>

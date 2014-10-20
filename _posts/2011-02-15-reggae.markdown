@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 690
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=690
+wordpress_url: http://pontog.radicaos.com/?p=690
 date: '2011-02-15 09:56:37 -0500'
 date_gmt: '2011-02-15 12:56:37 -0500'
 categories:
@@ -24,7 +24,7 @@ tags:
 - bob marley
 - ponto de equilíbrio
 ---
-<p style="text-align: justify;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_34.png"><img class="alignright size-medium wp-image-691" title="PinUp_34" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/PinUp_34-136x300.png" alt="" width="136" height="300" /></a>Olá, meus amores.</p>
+<p style="text-align: justify;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/PinUp_34.png"><img class="alignright size-medium wp-image-691" title="PinUp_34" src="http://pontog.radicaos.com/wp-content/uploads/2011/02/PinUp_34-136x300.png" alt="" width="136" height="300" /></a>Olá, meus amores.</p>
 <p style="text-align: justify;">O pessoal que me conhece sabe que eu sou uma admiradora fervorosa de um bom e velho Reggae. Posso ouvir esse gênero por horas, dias, meses... Sem me cansar.</p>
 <p style="text-align: justify;">Visto o meu vício e o nobre propósito deste blog, eu pensei: porque não?</p>
 <p style="text-align: justify;">Apresento para vocês a minha Santíssima Trindade do Reggae:</p>
@@ -32,20 +32,20 @@ tags:
 <blockquote>
 <p style="text-align: justify;"><span style="color: #ffcc99;">Enquanto a cor da pele for mais importante que o brilho dos olhos, haverá guerra.</span></p>
 </blockquote>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/01-Is-This-Love.mp3">Is This Love</a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/01-Is-This-Love.mp3">Is This Love</a></p>
 <p style="text-align: justify;">
 <p style="text-align: justify;">Em segundo lugar apresento para vocês a única banda de Reggae brasileira que eu <strong><span style="text-decoration: underline;">conheço</span></strong> e que dou valor como Reggae Roots e que trás a filosofia <a title="Rastafári" href="http://pt.wikipedia.org/wiki/Rastafarianismo" target="_blank">Rastafári</a> em suas letras. A banda Ponto de Equilíbrio. Com somente 3 álbuns de estúdio a banda com 8 integrantes está espalhando sua mensagem pelo Brasil fazendo shows em vários lugares do país. Vale acrescentar que assistir a um show desta banda é algo lindo, incrível, sente-se a positividade e a sinceridade de suas letras o tempo todo, não há como não dançar e se entregar ao som da música, mesmo sem estar "doidão" pelo baseado.</p>
 <blockquote>
 <p style="text-align: justify;"><span style="color: #ffcc99;">De que valem os dreads? Se as palavras são em vão. O que lhe faz um rasta é a alma e o coração.</span></p>
 </blockquote>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/Ponto-de-Equilibrio.mp3">Ponto de Equilíbrio</a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/Ponto-de-Equilibrio.mp3">Ponto de Equilíbrio</a></p>
 <p style="text-align: justify;">Em terceiro, mas não menos importante, trago-lhes a banda Soldiers of Jah Army (S.O.J.A.). Apesar de seus trabalhos terem iniciado em 1997 só a conheci em 2009, me foi apresentada pela amiga <a title="@xphabyolax" href="http://twitter.com/#!/xphabyolax" target="_blank">@xphabyolax</a>. Com 4 álbuns e 2 EP's S.O.J.A. me conquistou completamente. Posso dizer que em cada um dos álbuns deles tem uma ou mais músicas marcantes que fazem despertar, como o Reggae Roots faz muito bem, a vontade de dançar e cantar junto em todas as suas músicas. Infelizmente nunca consegui em ir um show deles, apesar de desde eu ter conhecido a banda eles já terem feito dois aqui no DF.</p>
 <blockquote>
 <p style="text-align: justify;"><span style="color: #ffcc99;">Cada  Religião afirma ter fé verdadeira, nenhum de vocês pode dizer que você  conhece meu destino... algumas coisas são melhores ser deixadas para  Ele.</span></p>
 </blockquote>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/06-Dont-Forget.mp3">Don't Forget</a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/06-Dont-Forget.mp3">Don't Forget</a></p>
 <div style="text-align: justify;">Tendo apresentado devidamente a minha Trindade, abro um parêntese para acrescentar o cantor e compositor Matisyahu, que com 6 álbuns e 1 EP trás um proposta diferente para dentro do Reggae, introduzindo elementos da cultura hip-hop, especialmente o beat-box, em suas músicas. Vale muito a pena ouvir e conhecer mais visto suas belas músicas com mensagens fortes e marcantes.</div>
-<pre style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/02-Youth.mp3">Youth</a></pre>
+<pre style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/02/02-Youth.mp3">Youth</a></pre>
 <div style="text-align: justify;">Espero que gostem da sessão musical de hoje e aproveitem toda a paz, amor e positividade que envio para vocês!</div>
 <div style="text-align: justify;"><span style="color: #ff0000;">P.S.</span>: Tem show de Ponto de Equilíbrio dia 10 de Abril (2011) aqui em Brasília, alguém se habilita? <span style="color: #ffff00;">;]</span></div>
 <div style="text-align: justify;"><span style="color: #ffff00;"><br />

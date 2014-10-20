@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 961
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=961
+wordpress_url: http://pontog.radicaos.com/?p=961
 date: '2011-07-20 10:08:24 -0400'
 date_gmt: '2011-07-20 13:08:24 -0400'
 categories:
@@ -20,4 +20,4 @@ categories:
 tags:
 - Inglourious Basterds
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/07/tumblr_logavffYyd1qba4qio1_400.png"><img class="aligncenter size-full wp-image-962" title="Keep Calm..." src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/07/tumblr_logavffYyd1qba4qio1_400.png" alt="" width="369" height="480" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/07/tumblr_logavffYyd1qba4qio1_400.png"><img class="aligncenter size-full wp-image-962" title="Keep Calm..." src="http://pontog.radicaos.com/wp-content/uploads/2011/07/tumblr_logavffYyd1qba4qio1_400.png" alt="" width="369" height="480" /></a></p>

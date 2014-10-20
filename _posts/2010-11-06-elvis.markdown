@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 469
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=469
+wordpress_url: http://pontog.radicaos.com/?p=469
 date: '2010-11-06 19:13:01 -0400'
 date_gmt: '2010-11-06 22:13:01 -0400'
 categories:
@@ -19,5 +19,5 @@ categories:
 tags:
 - elvis
 ---
-<h1 style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/81014479.jpg"><img class="aligncenter size-full wp-image-470" title="Elvis" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/81014479.jpg" alt="" width="400" height="563" /></a></h1>
+<h1 style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/81014479.jpg"><img class="aligncenter size-full wp-image-470" title="Elvis" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/81014479.jpg" alt="" width="400" height="563" /></a></h1>
 <p style="text-align: center;"><span style="color: #ffff00;"><em>Quem precisa de PinUps? </em></span></p>

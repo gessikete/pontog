@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 597
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=597
+wordpress_url: http://pontog.radicaos.com/?p=597
 date: '2011-01-23 22:24:57 -0500'
 date_gmt: '2011-01-24 01:24:57 -0500'
 categories:
@@ -21,7 +21,7 @@ tags:
 - soja
 - soldiers of jah army
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_28.png"></a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_15.png"><img class="aligncenter size-medium wp-image-594" title="PinUp_15" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_15-300x300.png" alt="" width="300" height="300" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_28.png"></a><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_15.png"><img class="aligncenter size-medium wp-image-594" title="PinUp_15" src="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_15-300x300.png" alt="" width="300" height="300" /></a></p>
 <div style="text-align: center;">Eu ajo como se eu a tivesse deixado,mas eu realmente imploro a ela pra ficar.</div>
 <div style="text-align: center;">E quanto mais eu a pressiono mais ela foge.</div>
 <div style="text-align: center;">Eu ajo como se eu não precisasse dela mas... você é necessária...</div>
@@ -67,5 +67,5 @@ tags:
 <div style="text-align: center;"><span style="color: #99cc00;">Soldiers Of Jah Army</span></div>
 <div style="text-align: center;"></div>
 <p><br/></p>
-<div style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/02-By-My-Side.mp3">By My Side</a></div>
+<div style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/02-By-My-Side.mp3">By My Side</a></div>
 <p style="text-align: center;">

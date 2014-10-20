@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1102
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1102
+wordpress_url: http://pontog.radicaos.com/?p=1102
 date: '2012-02-06 09:40:17 -0500'
 date_gmt: '2012-02-06 11:40:17 -0500'
 categories:
@@ -31,7 +31,7 @@ tags:
 <p style="text-align: justify;">Devo dizer que é um filme muito bonito. A fotografia é bem simples e sutil, mas muito bonita junto com a trilha sonora bem delicada marcada pela MPB. Tem todo um tom poético, com a narração de alguns trechos de livros pela Julia, professora universitária interpretada por Ana Paula Arosio, que demonstram como ela está se sentindo. É um bom filme que vale a pena ser visto principalmente por fugir do estereótipo de filmes brasileiros que só tratam de favela e violência (não que alguns exemplos desse gênero não sejam bons).</p>
 <p style="text-align: justify;">Acrescentarei só mais um detalhe que não entendi, durante o filme em umas três cenas aparece uma garotinha, sempre com detalhes em vermelho em cenas com a Julia que eu não consegui entender qual o significado dela, qual o apelo dela no filme. Não sou nenhuma entendida de cinema e fiquei pensando se era algum tipo de exteriorização de um sentimento de conformidade ou superação que estaria sentindo a personagem. Eu realmente não sei se souberem deixem-me saber também!</p>
 <p style="text-align: justify;">Um grande beijo molhado em vocês e até a próxima.</p>
-<p> <a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2012/02/como_esquecer.jpg" target="_blank"><img class="alignleft size-medium wp-image-1103" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Como Esquecer" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2012/02/como_esquecer-207x300.jpg" alt="" width="207" height="300" /></a></p>
+<p> <a href="http://pontog.radicaos.com/wp-content/uploads/2012/02/como_esquecer.jpg" target="_blank"><img class="alignleft size-medium wp-image-1103" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Como Esquecer" src="http://pontog.radicaos.com/wp-content/uploads/2012/02/como_esquecer-207x300.jpg" alt="" width="207" height="300" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

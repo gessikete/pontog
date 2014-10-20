@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 173
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=173
+wordpress_url: http://pontog.radicaos.com/?p=173
 date: '2010-07-13 18:12:45 -0400'
 date_gmt: '2010-07-13 21:12:45 -0400'
 categories:
@@ -19,4 +19,4 @@ categories:
 tags:
 - pac man
 ---
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC04743.jpg"><img class="aligncenter size-large wp-image-174" title="PacMan" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/07/DSC04743-1024x768.jpg" alt="" width="491" height="369" /></a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/07/DSC04743.jpg"><img class="aligncenter size-large wp-image-174" title="PacMan" src="http://pontog.radicaos.com/wp-content/uploads/2010/07/DSC04743-1024x768.jpg" alt="" width="491" height="369" /></a></p>

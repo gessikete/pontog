@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 382
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=382
+wordpress_url: http://pontog.radicaos.com/?p=382
 date: '2010-10-13 14:27:20 -0400'
 date_gmt: '2010-10-13 17:27:20 -0400'
 categories:
@@ -21,7 +21,7 @@ tags:
 - pin-up
 - bikini kill
 ---
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/10/Pin-Up_4.png"><img class="aligncenter size-medium wp-image-384" title="Pin-Up_4" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/10/Pin-Up_4-300x300.png" alt="" width="300" height="300" /></a><span style="color: #ffff00;"><br />
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/10/Pin-Up_4.png"><img class="aligncenter size-medium wp-image-384" title="Pin-Up_4" src="http://pontog.radicaos.com/wp-content/uploads/2010/10/Pin-Up_4-300x300.png" alt="" width="300" height="300" /></a><span style="color: #ffff00;"><br />
 </span></p>
 <p style="text-align: center;"><span style="color: #ffff00;">Don't need you to say we're cute<br />
 Don't need you to say we're alright<br />

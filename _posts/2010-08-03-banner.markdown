@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 198
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=198
+wordpress_url: http://pontog.radicaos.com/?p=198
 date: '2010-08-03 15:05:27 -0400'
 date_gmt: '2010-08-03 18:05:27 -0400'
 categories:
@@ -20,28 +20,28 @@ tags:
 - banner
 - pinup
 ---
-<p>Heeey, Friends! <a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_1.png"><img class="alignright size-medium wp-image-225" title="PinUp_1" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/PinUp_1-217x300.png" alt="" width="217" height="300" /></a></p>
+<p>Heeey, Friends! <a href="http://pontog.radicaos.com/wp-content/uploads/2010/08/PinUp_1.png"><img class="alignright size-medium wp-image-225" title="PinUp_1" src="http://pontog.radicaos.com/wp-content/uploads/2010/08/PinUp_1-217x300.png" alt="" width="217" height="300" /></a></p>
 <p>Estou voltando hoje para mostrar para vocês uma novidade! <span style="color: #ffff00;">*-*</span></p>
 <p>Devido à necessidade da divulgação do Ponto G no site d'<a title="Mundo das Trevas" href="http://mundodastrevas.com" target="_blank">O Mundo das Trevas</a> tive que criar um banner... E já que eu tive que criar um banner porque não divulgá-lo aqui?</p>
 <p>Então faremos assim, colocarei o HTML do banner aqui, para quem quiser divulgar e quem quiser que eu faça o mesmo é só colocar nos comentários que divulgou o site e eu coloco o seu banner no meu blog (ou o link, caso você não tenha banner <span style="color: #ffff00;">^^</span>)! Ele é lindo e vai deixar seu blog/site com um toque especial!</p>
 <p>Ah! E para quem não entendeu a Pin-Up aí ao lado eu explico: essa será a nova marca do Ponto G. Descobri vários Brushes (são como carimbos de desenhos no Photoshop) de Pin-Up e achei totalmente adoráveis e usáveis, elas são lindas e charmosas, além de combinarem com o site! Provavelmente elas aparecerão em todas as postagens, além de estarem no Banner. <span style="color: #ffff00;">^^ <span style="color: #333300;"> </span><br />
 </span></p>
 <p>É isso! O código está aí embaixo, divulgue e seja divulgado! Kisses! <span style="color: #ffff00;">=**</span></p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner.jpg"><img class="size-full wp-image-217 alignleft" title="banner" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner.jpg" alt="" width="170" height="50" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner.jpg"><img class="size-full wp-image-217 alignleft" title="banner" src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner.jpg" alt="" width="170" height="50" /></a></p>
 <div>170x50</div>
-<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://localhost/~volmer/pontog/pontog" target="_blank" title="Ponto G"><img src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner.jpg" alt="Ponto G" /></a></textarea></div>
+<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://pontog.radicaos.com" target="_blank" title="Ponto G"><img src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner.jpg" alt="Ponto G" /></a></textarea></div>
 <div></div>
 <p></br></p>
-<div><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner125x125.jpg"><img class="alignleft size-full wp-image-251" title="banner[125x125]" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner125x125.jpg" alt="Ponto G" width="125" height="125" /></a></div>
+<div><a href="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner125x125.jpg"><img class="alignleft size-full wp-image-251" title="banner[125x125]" src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner125x125.jpg" alt="Ponto G" width="125" height="125" /></a></div>
 <div>125x125</div>
 <p></br></p>
-<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://localhost/~volmer/pontog/pontog" target="_blank" title="Ponto G"><img src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner125x125.jpg" alt="Ponto G" /></a></textarea></div>
+<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://pontog.radicaos.com" target="_blank" title="Ponto G"><img src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner125x125.jpg" alt="Ponto G" /></a></textarea></div>
 <div></div>
 <p></br></p>
-<div><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner120x60.jpg"><img class="alignleft size-full wp-image-251" title="banner[120x60]" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner120x60.jpg" alt="Ponto G" width="120" height="60" /></a></div>
+<div><a href="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner120x60.jpg"><img class="alignleft size-full wp-image-251" title="banner[120x60]" src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner120x60.jpg" alt="Ponto G" width="120" height="60" /></a></div>
 <div>120x60</div>
 <p></br></p>
-<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://localhost/~volmer/pontog/pontog" target="_blank" title="Ponto G"><img src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/08/banner120x60.jpg" alt="Ponto G" /></a></textarea></div>
+<div><textarea style="width: 500px; height: 50px; font-family: monospace;"><a href="http://pontog.radicaos.com" target="_blank" title="Ponto G"><img src="http://pontog.radicaos.com/wp-content/uploads/2010/08/banner120x60.jpg" alt="Ponto G" /></a></textarea></div>
 <p><br/></p>
 <div>Obs.: Caso queiram um banner maior ou menor é só pedir!</div>
 <div>See You Later!</div>

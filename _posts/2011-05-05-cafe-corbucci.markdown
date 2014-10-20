@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 821
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=821
+wordpress_url: http://pontog.radicaos.com/?p=821
 date: '2011-05-05 19:14:54 -0400'
 date_gmt: '2011-05-05 22:14:54 -0400'
 categories:
@@ -21,7 +21,7 @@ tags:
 - pin-up
 - café corbucci
 ---
-<p style="text-align: justify;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/05/PinUp_12.png"><img class="aligncenter size-medium wp-image-823" title="PinUp_12" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/05/PinUp_12-300x300.png" alt="" width="300" height="300" /></a></p>
+<p style="text-align: justify;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/05/PinUp_12.png"><img class="aligncenter size-medium wp-image-823" title="PinUp_12" src="http://pontog.radicaos.com/wp-content/uploads/2011/05/PinUp_12-300x300.png" alt="" width="300" height="300" /></a></p>
 <p style="text-align: justify;">Olá, meus queridos amigos!</p>
 <p style="text-align: justify;">Hoje, para o delírio principalmente de todos os meus amigos veganos, apresento para vocês o Café Corbucci!</p>
 <p style="text-align: justify;">Sim. Se vocês suspeitam que tem coisas veganas lá estão certos, mas não é só isso! Não são só opções veganas... É UM CAFÉ TOTALMENTE VEGANO! TO-TAL-MEN-TE!</p>

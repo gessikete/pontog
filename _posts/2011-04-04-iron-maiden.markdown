@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 769
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=769
+wordpress_url: http://pontog.radicaos.com/?p=769
 date: '2011-04-04 10:56:57 -0400'
 date_gmt: '2011-04-04 13:56:57 -0400'
 categories:
@@ -20,22 +20,22 @@ categories:
 tags: []
 ---
 <p>&nbsp;</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/PinUp_45.png"><img class="aligncenter size-medium wp-image-770" title="PinUp_45" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/PinUp_45-300x154.png" alt="" width="300" height="154" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/PinUp_45.png"><img class="aligncenter size-medium wp-image-770" title="PinUp_45" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/PinUp_45-300x154.png" alt="" width="300" height="154" /></a></p>
 <p>Hello, meus queridos e amáveis leitores! s2</p>
 <p>Quero pedir mil desculpas por estar a tanto tempo sem postar, mas não tenho tido tempo. As coisas estão difíceis para o meu lago esse semestre!</p>
 <p>Porém é com muita felicidade que venho falar para vocês: - Eu fui! E fui pela segunda vez no show <del>fodástico</del> do Iron Maiden!</p>
-<p style="text-align: center;"><a href="http://www.ironmaidenwallpaper.com/files/Final_Frontier_4.jpg" target="_blank"><img class="aligncenter size-medium wp-image-779" title="The Final Frontier" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Final_Frontier_4-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p style="text-align: center;"><a href="http://www.ironmaidenwallpaper.com/files/Final_Frontier_4.jpg" target="_blank"><img class="aligncenter size-medium wp-image-779" title="The Final Frontier" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/Final_Frontier_4-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>Dessa vez com a compainha dos meus #BFF @volmerius, @alanuska e @charlonp, fomos rumo a turnê "The Final Frontier". Muitos não acharam esse álbum muito bom, mas por experiência própia digo que ele deve ser escutado uma segunda vez e aí sim você vai conseguir sentir todo o poder que essas músicas trazem.</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenTodos.jpg"><img class="aligncenter size-medium wp-image-792" title="[Iron Maiden]Todos" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenTodos-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenTodos.jpg"><img class="aligncenter size-medium wp-image-792" title="[Iron Maiden]Todos" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenTodos-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>Entretanto o show não foi só de músicas novas trouxe também antigos clássicos fazendo-nos lembrar da Turnê anterior, Somewhere Back in Time, com músicas como Iron Maiden, The Trooper, 2 Minutes do Midnight, além é claro de The Number of the Beast.</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenThe-Trooper.jpg"><img class="aligncenter size-medium wp-image-791" title="[Iron Maiden]The Trooper" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenThe-Trooper-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenThe-Trooper.jpg"><img class="aligncenter size-medium wp-image-791" title="[Iron Maiden]The Trooper" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenThe-Trooper-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>Não sou uma grande conhecedora da história do Iron como a @alanuska que sabe todas as músicas, de todos os álbuns e o que eles tocaram em cada turnê, mas posso dizer que os shows deles são únicos. E não venham me dizer que eles vivem de passado, porque isso não importa, quem ouve as músicas deles sabe que cada 8, 9, 10 minutos de música é uma experiência, uma história que te faz imaginar todas as passagens que são cantadas por ela. E eu não sou suspeita por dizer isso, pois não sou uma grande admiradora do metal, mas o Iron me faz querer ir em todos os shows, ser amassada e trucidada por milhares de headbangers.</p>
 <p>É emocionante levantar as mãos \o\|o|/o/ e cantar "ô ô ô ô ô ô ô ô ô" cada vez que eles tocam "The Trooper" e perder a voz de tanto gritar cada vez que o Bruce Dickinson pede "Scream for me, Brasília". Esperar ansiosamente como o Eddie vai aparecer no palco. E ver todas as peripécias dessa banda que só tem gigantes da música.</p>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenJanick.jpg"><img class="size-medium wp-image-788 aligncenter" title="[Iron Maiden]Janick" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenJanick-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenBruce.jpg"><img class="size-medium wp-image-787 aligncenter" title="[Iron Maiden]Bruce" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/Iron-MaidenBruce-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenJanick.jpg"><img class="size-medium wp-image-788 aligncenter" title="[Iron Maiden]Janick" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenJanick-300x225.jpg" alt="" width="300" height="225" /></a><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenBruce.jpg"><img class="size-medium wp-image-787 aligncenter" title="[Iron Maiden]Bruce" src="http://pontog.radicaos.com/wp-content/uploads/2011/04/Iron-MaidenBruce-300x225.jpg" alt="" width="300" height="225" /></a></p>
 <p>Ah... Iron... Espero te reencontrar de novo algum dia, quem sabe no Rock in Rio. Que tal?<br />
 <iframe title="YouTube video player" src="http://www.youtube.com/embed/GJiLKuxQ4mo" frameborder="0" width="640" height="510"></iframe><br />
 Fica para vocês a música que eu mais gostei no álbum The Final Frontier: The Talisman.</p>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/04/08-The-Talisman.mp3">The Talisman</a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/04/08-The-Talisman.mp3">The Talisman</a></p>
 <p style="text-align: center;">When I stand and look<br />
 About the port<br />
 And contemplate my life, will I<br />

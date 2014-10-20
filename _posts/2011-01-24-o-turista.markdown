@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 587
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=587
+wordpress_url: http://pontog.radicaos.com/?p=587
 date: '2011-01-24 08:08:53 -0500'
 date_gmt: '2011-01-24 11:08:53 -0500'
 categories:
@@ -24,7 +24,7 @@ tags:
 - angelina jolie
 - o turista
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_28.png"><img class="aligncenter size-medium wp-image-590" title="PinUp_28" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_28-300x217.png" alt="" width="300" height="217" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_28.png"><img class="aligncenter size-medium wp-image-590" title="PinUp_28" src="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_28-300x217.png" alt="" width="300" height="217" /></a></p>
 <p style="text-align: justify;">Olá, pessoal!</p>
 <p style="text-align: justify;">Nessa sexta-feira (21/01/2010) fui ver uma estreia no cinema, um filme com ninguém mais, ninguém menos que Johnny Depp e Angelina Jolie. Sim! Estou falando de The Tourist ou "O Turista", como preferirem.</p>
 <p style="text-align: justify;"><a href="http://www.guarulhosonline.com/news/wp-content/uploads/2011/01/o-turista-poster.jpg"><img class="aligncenter" title="The Tourist" src="http://www.guarulhosonline.com/news/wp-content/uploads/2011/01/o-turista-poster.jpg" alt="" width="292" height="432" /></a>Como diz o poster, tudo começou quando ele encontrou uma mulher. Em um filme meio comédia é bom ver Johnny Depp de novo em um papel mais comun... Sem quilos de maquiagem e parafernálias como em Piratas do Caribe e  Sweeney Todd. Além da Jolie com a sua beleza que chega a ser imoral de tão perfeita! Como diria uma amiga minha... Ela deveria ser proibida de andar na rua assim! <span style="color: #ffff00;">huhuhu</span></p>

@@ -11,14 +11,14 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 603
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=603
+wordpress_url: http://pontog.radicaos.com/?p=603
 date: '2011-01-24 17:30:28 -0500'
 date_gmt: '2011-01-24 20:30:28 -0500'
 categories:
 - Musica
 tags: []
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_10.png"><img class="aligncenter size-medium wp-image-431" title="PinUp_10" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_10-300x189.png" alt="" width="300" height="189" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_10.png"><img class="aligncenter size-medium wp-image-431" title="PinUp_10" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_10-300x189.png" alt="" width="300" height="189" /></a></p>
 <div style="text-align: center;">Eu vi você parado no canto</div>
 <div style="text-align: center;">No canto de uma luz ardente</div>
 <div style="text-align: center;">Eu vi você parado no canto</div>
@@ -57,4 +57,4 @@ tags: []
 <div style="text-align: center;"><span style="color: #99cc00;">The White Stripes</span></div>
 <div style="text-align: center;"><span style="color: #99cc00;"><br />
 </span></div>
-<div style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/The-White-Stripes-05-In-The-Cold-Cold-Night.mp3">In The Cold, Cold Night</a></div>
+<div style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/The-White-Stripes-05-In-The-Cold-Cold-Night.mp3">In The Cold, Cold Night</a></div>

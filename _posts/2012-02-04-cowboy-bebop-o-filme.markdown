@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1091
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1091
+wordpress_url: http://pontog.radicaos.com/?p=1091
 date: '2012-02-04 15:07:13 -0500'
 date_gmt: '2012-02-04 17:07:13 -0500'
 categories:
@@ -37,7 +37,7 @@ tags:
 <p style="text-align: justify;">*curiosidades extraídas do post do <a title="Omelete - Cowboy Bebop, o filme" href="http://omelete.uol.com.br/cinema/icowboy-bebop-o-filme-i/" target="_blank">ometele</a> sobre o filme.</p>
 <p style="text-align: justify;">Por enquanto é só, minha gente. Um beijo cheio de muito amor! &lt;3</p>
 <p style="text-align: justify;">See you Space Cowboys...</p>
-<p style="text-align: justify;"><a href="http://2.bp.blogspot.com/_G9ZKRxX_PEY/TRJO2SfnuFI/AAAAAAAACp4/baMvPEffVZs/s1600/cowboy-bebop-english-dubbed.jpg" target="_blank"><img class="alignleft size-medium wp-image-1094" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Cowboy Bebop, The Movie" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2012/02/cowboy-bebop-english-dubbed-202x300.jpg" alt="" width="202" height="300" /></a></p>
+<p style="text-align: justify;"><a href="http://2.bp.blogspot.com/_G9ZKRxX_PEY/TRJO2SfnuFI/AAAAAAAACp4/baMvPEffVZs/s1600/cowboy-bebop-english-dubbed.jpg" target="_blank"><img class="alignleft size-medium wp-image-1094" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="Cowboy Bebop, The Movie" src="http://pontog.radicaos.com/wp-content/uploads/2012/02/cowboy-bebop-english-dubbed-202x300.jpg" alt="" width="202" height="300" /></a></p>
 <p></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <h2 style="text-align: justify;"><span style="text-decoration: underline;">Cowboy Bebob, The Movie</span></h2>
 <p style="text-align: justify;"><span style="text-decoration: underline;">Direção</span>: Shinichiro Watanabe</p>

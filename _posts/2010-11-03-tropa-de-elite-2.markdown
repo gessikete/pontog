@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 456
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=456
+wordpress_url: http://pontog.radicaos.com/?p=456
 date: '2010-11-03 17:10:14 -0400'
 date_gmt: '2010-11-03 20:10:14 -0400'
 categories:
@@ -27,7 +27,7 @@ tags:
 - tropa
 - bope
 ---
-<p style="text-align: center;"><a href="http://contigo.abril.com.br/blog/shuffle/2010/06/29/novas-imagens-de-tropa-de-elite-2/"></a><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_8.png"><img class="aligncenter size-medium wp-image-457" title="PinUp_8" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_8-219x300.png" alt="" width="219" height="300" /></a></p>
+<p style="text-align: center;"><a href="http://contigo.abril.com.br/blog/shuffle/2010/06/29/novas-imagens-de-tropa-de-elite-2/"></a><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_8.png"><img class="aligncenter size-medium wp-image-457" title="PinUp_8" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_8-219x300.png" alt="" width="219" height="300" /></a></p>
 <p>Hello, Guys!</p>
 <p>Hoje trago uma novidade para vocês. O Ponto G estava muito parado... Sempre posts escritos por mim, com a minha forma de expressar. Então resolvi chamar minha amiga <span style="color: #ff6600;"><a title="Perfil da Bruna" href="http://www.orkut.com.br/Main#Profile?uid=15308675813206205724" target="_blank">Bruna</a></span> para escrever algo para o blog e a nossa escolha foi um sinopse sobre <span style="color: #800000;">TROPA DE ELITE 2</span>.</p>
 <p style="text-align: center;"><img class="aligncenter" title="Tropa de Elite " src="http://contigo.abril.com.br/blog/shuffle/files/2010/06/Wagner-Moura_Tropa-2_por-Bento-Marzo-1024x682.jpg" alt="" width="430" height="286" /></p>

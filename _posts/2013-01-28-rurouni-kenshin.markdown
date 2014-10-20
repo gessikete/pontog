@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1185
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1185
+wordpress_url: http://pontog.radicaos.com/?p=1185
 date: '2013-01-28 22:59:20 -0500'
 date_gmt: '2013-01-29 00:59:20 -0500'
 categories:
@@ -28,7 +28,7 @@ tags: []
 <p style="text-align: justify;">Oro!! Vocês ainda não viram o trailer? Confiram abaixo e corram para ver o filme!</p>
 <p style="text-align: justify;">Um xêro e até a próxima.</p>
 <h2 style="text-align: justify;"></h2>
-<p><a href="http://eukito.com.br/wp-content/uploads/2012/06/New-Rurouni-Kenshin-Live-Action-Poster.jpg"><img class="alignnone size-medium wp-image-1189" alt="Rurouni Kenshin" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2013/01/New-Rurouni-Kenshin-Live-Action-Poster-213x300.jpg" width="213" height="300" /></a></p>
+<p><a href="http://eukito.com.br/wp-content/uploads/2012/06/New-Rurouni-Kenshin-Live-Action-Poster.jpg"><img class="alignnone size-medium wp-image-1189" alt="Rurouni Kenshin" src="http://pontog.radicaos.com/wp-content/uploads/2013/01/New-Rurouni-Kenshin-Live-Action-Poster-213x300.jpg" width="213" height="300" /></a></p>
 <h2 style="text-align: justify;"><span style="text-decoration: underline;">Rurouni Kenshin</span></h2>
 <p style="text-align: justify;"><span style="text-decoration: underline;">Direção</span>: Keishi Ōtomo</p>
 <p style="text-align: justify;"><span style="text-decoration: underline;">Ano</span>: 2012</p>

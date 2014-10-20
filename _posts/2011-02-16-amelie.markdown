@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 725
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=725
+wordpress_url: http://pontog.radicaos.com/?p=725
 date: '2011-02-16 18:22:14 -0500'
 date_gmt: '2011-02-16 21:22:14 -0500'
 categories:
@@ -19,4 +19,4 @@ categories:
 tags:
 - amelie
 ---
-<p><a title="Amelie" href="http://weheartit.com/entry/4983658" target="_blank"><img class="aligncenter size-full wp-image-726" title="Amelie" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/02/tumblr_lar4tlz0iX1qbb4t7o1_500_large.jpg" alt="" width="500" height="479" /></a></p>
+<p><a title="Amelie" href="http://weheartit.com/entry/4983658" target="_blank"><img class="aligncenter size-full wp-image-726" title="Amelie" src="http://pontog.radicaos.com/wp-content/uploads/2011/02/tumblr_lar4tlz0iX1qbb4t7o1_500_large.jpg" alt="" width="500" height="479" /></a></p>

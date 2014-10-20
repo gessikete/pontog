@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1
+wordpress_url: http://pontog.radicaos.com/?p=1
 date: '2010-05-01 02:34:37 -0400'
 date_gmt: '2010-05-01 02:34:37 -0400'
 categories:
@@ -20,4 +20,4 @@ tags: []
 ---
 <p>Inaugurarei meu blog com um post sobre o que eu fiz hoje! ;D</p>
 <p>Hoje houve um encontro de Otakus no Plano Piloto, o Espaço Otaku (<a href="http://www.espacootaku.com/">http://www.espacootaku.com/</a>). O evento foi meio paradinho, mas ao menos eu aprendi a fazer o tão desejado Tsuru em uma sala de Origami.</p>
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/05/DSC04472.jpg"><img class="aligncenter size-full wp-image-4" title="Tsuru" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/05/DSC04472.jpg" alt="" width="270" height="235" /></a></p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2010/05/DSC04472.jpg"><img class="aligncenter size-full wp-image-4" title="Tsuru" src="http://pontog.radicaos.com/wp-content/uploads/2010/05/DSC04472.jpg" alt="" width="270" height="235" /></a></p>

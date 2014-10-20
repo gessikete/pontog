@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 865
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=865
+wordpress_url: http://pontog.radicaos.com/?p=865
 date: '2011-05-18 12:04:56 -0400'
 date_gmt: '2011-05-18 15:04:56 -0400'
 categories:

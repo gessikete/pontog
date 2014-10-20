@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 500
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=500
+wordpress_url: http://pontog.radicaos.com/?p=500
 date: '2010-11-14 22:38:36 -0500'
 date_gmt: '2010-11-15 01:38:36 -0500'
 categories:
@@ -23,9 +23,9 @@ tags:
 - neil gaiman
 - perpetuos
 ---
-<p style="text-align: justify;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_19.png"><img class="aligncenter size-medium wp-image-501" title="PinUp_19" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/PinUp_19-300x209.png" alt="" width="300" height="209" /></a>Hello, my sweet readers!</p>
+<p style="text-align: justify;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_19.png"><img class="aligncenter size-medium wp-image-501" title="PinUp_19" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/PinUp_19-300x209.png" alt="" width="300" height="209" /></a>Hello, my sweet readers!</p>
 <p style="text-align: justify;">Hoje trago mais uma ótima dica para vocês: Sandman!</p>
-<p style="text-align: center;"><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/sandman_1.jpg"><img class="aligncenter size-full wp-image-503" title="Sandman" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2010/11/sandman_1.jpg" alt="" width="502" height="377" /></a></p>
+<p style="text-align: center;"><a href="http://pontog.radicaos.com/wp-content/uploads/2010/11/sandman_1.jpg"><img class="aligncenter size-full wp-image-503" title="Sandman" src="http://pontog.radicaos.com/wp-content/uploads/2010/11/sandman_1.jpg" alt="" width="502" height="377" /></a></p>
 <p style="text-align: justify;">Esta tarde acabei de ler o volume 1 da edição definitiva de Sandman e afirmo para vocês, junto à Watchmen é um dos melhores quadrinhos que já li EVER!</p>
 <p style="text-align: justify;">Bem, o volume 1 desta edição reúne a primeira parte de várias histórias que viriam em mais 3 volumes ainda não lançados no Brasil. Estas contam várias histórias escritas por <a title="Neil Gaiman" href="http://pt.wikipedia.org/wiki/Neil_Gaiman" target="_blank">Neil Gaiman</a>, muitas sem ligação entre si, de Sandman, um dos Perpétuos, o governante do Sonhar.</p>
 <p style="text-align: justify;">Este primeiro volume começa com a captura de Sandman por mortais, que a fizeram tentando aprisionar a Morte (outra Perpétua e irmã de Sandman), este, depois de vários anos aprisionado, consegue se libertar, porém acaba se vendo sem nenhum dos seus pertences (que diga-se de passagem não são pertences quaisquer) e assim começa o desenrolar da história, com o nosso querido Morpheus em busca das suas posses nos proporciona uma das melhores histórias (ao menos ao meu ver) do livro: 24 horas.</p>

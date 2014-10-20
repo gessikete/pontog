@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1078
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1078
+wordpress_url: http://pontog.radicaos.com/?p=1078
 date: '2012-02-01 08:55:22 -0500'
 date_gmt: '2012-02-01 10:55:22 -0500'
 categories:
@@ -28,7 +28,7 @@ tags:
 <p align="JUSTIFY"><span style="font-family: Calibri, sans-serif;">Para isso virar um post digno do Ponto G devo acrescentar que eu adorei as histórias. Esses pequenos contos cercados de crimes, investigações, intrigas (a pura descrição de Sherlock Holmes) sempre me chamaram atenção. As histórias são, de certa forma, independentes, afinal cada uma é um caso que Holmes se presta a resolver, e são muito, muito bem descritas! Os lugares, as situações, as pessoas, os métodos de dedução utilizados por Holmes nas investigações, tudo é extremamente bem detalhado, de forma que o leitor consegue imaginar todo o cenário e ser um observador de todos os passos de Sherlock Holmes e dr. Watson.</span></p>
 <p align="JUSTIFY"><span style="font-family: Calibri, sans-serif;">A leitura desses cinco casos foi por demasiada prazerosa e recomendo a todos que gostam desse tipo de aventura ou, principalmente, que assistiram aos filmes, que desfrutem dessa ótima leitura, sendo esta muito mais proveitosa que suas apresentações no cinema. E, caso desejem, compartilhem comigo a opinião de vocês sobre as aventuras de Sherlock Holmes e dr. Watson.</span></p>
 <p align="JUSTIFY"><span style="font-family: Calibri, sans-serif;">Um beijo bem grande e see ya!</span></p>
-<p align="JUSTIFY"><a href="http://i.s8.com.br/images/books/cover/img4/1695754_4.jpg" target="_blank"><img class="alignleft size-medium wp-image-1079" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="As melhores histórias de Sherlock Holmes" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2012/02/1695754_4-180x300.jpg" alt="" width="180" height="300" /></a></p>
+<p align="JUSTIFY"><a href="http://i.s8.com.br/images/books/cover/img4/1695754_4.jpg" target="_blank"><img class="alignleft size-medium wp-image-1079" style="border-style: initial; border-color: initial; border-image: initial; border-width: 0px;" title="As melhores histórias de Sherlock Holmes" src="http://pontog.radicaos.com/wp-content/uploads/2012/02/1695754_4-180x300.jpg" alt="" width="180" height="300" /></a></p>
 <p></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <h2 align="JUSTIFY"><span style="text-decoration: underline;">As melhores histórias de Sherlock Holmes</span></h2>
 <p align="JUSTIFY"><span style="text-decoration: underline;">Autor</span>: Sir Arthur Conan Doyle</p>

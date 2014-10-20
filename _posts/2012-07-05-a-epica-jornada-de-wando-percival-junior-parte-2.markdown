@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 1135
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=1135
+wordpress_url: http://pontog.radicaos.com/?p=1135
 date: '2012-07-05 11:26:47 -0400'
 date_gmt: '2012-07-05 14:26:47 -0400'
 categories:
@@ -25,7 +25,7 @@ tags:
 <p style="text-align: justify;" align="JUSTIFY">Olá, my sweet babies!</p>
 <p style="text-align: justify;" align="JUSTIFY">Depois de tanto tempo (totalmente por minha culpa! Estou com o conto aqui há alguns dias) finalmente publico para vocês a Parte 2 d'A épica jornada de Wando Percival Junior. É tempo de continuarmos trilhando junto ao nosso protagonista predileto os mais tortuosos caminhos rumo a sua amada Gisele.</p>
 <p style="text-align: justify;" align="JUSTIFY">Os convido a dar boas risadas junto comigo com mais esse conto do <a title="Pedro Grizotti" href="http://www.facebook.com/pedrohenrique.grizotti" target="_blank">Pedro Grizotti</a>.</p>
-<p style="text-align: justify;" align="JUSTIFY">Ah! E não comece a ler a segunda parte sem ler a primeira, galerës! É só ir em <a href="http://localhost/~volmer/pontog/pontog/2012/05/14/a-epica-jornada-de-wando-percival-junior-parte-1/" title="A épica jornada de Wando Percival Junior – Parte 1">A épica jornada de Wando Percival Junior – Parte 1</a>!</p>
+<p style="text-align: justify;" align="JUSTIFY">Ah! E não comece a ler a segunda parte sem ler a primeira, galerës! É só ir em <a href="http://pontog.radicaos.com/2012/05/14/a-epica-jornada-de-wando-percival-junior-parte-1/" title="A épica jornada de Wando Percival Junior – Parte 1">A épica jornada de Wando Percival Junior – Parte 1</a>!</p>
 <p style="text-align: justify;" align="JUSTIFY">Um grande beijo e até a terceira e última parte dessa jornada!</p>
 <p>&nbsp;</p>
 <p style="text-align: justify;" align="JUSTIFY">——–</p>

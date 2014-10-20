@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: gnsodre@gmail.com
 wordpress_id: 556
-wordpress_url: http://localhost/~volmer/pontog/pontog/?p=556
+wordpress_url: http://pontog.radicaos.com/?p=556
 date: '2011-01-06 20:39:09 -0500'
 date_gmt: '2011-01-06 23:39:09 -0500'
 categories:
@@ -22,7 +22,7 @@ tags:
 - pinup
 - o lobo solitário
 ---
-<p><a href="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_26.png"><img class="alignright size-medium wp-image-557" title="PinUp_26" src="http://localhost/~volmer/pontog/pontog/wp-content/uploads/2011/01/PinUp_26-232x300.png" alt="" width="232" height="300" /></a>Hello, guys!</p>
+<p><a href="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_26.png"><img class="alignright size-medium wp-image-557" title="PinUp_26" src="http://pontog.radicaos.com/wp-content/uploads/2011/01/PinUp_26-232x300.png" alt="" width="232" height="300" /></a>Hello, guys!</p>
 <p>Depois de tanto tempo e de muita cobrança de alguns amigos estou de volta!</p>
 <p>E nada melhor para começar um novo ano que uma boa dica de leitura e é isso que eu trago para vocês no post de hoje.</p>
 <p>A dica de hoje é o mangá "O Lobo Solitário" que, como a maioria dos mangás que eu li, foi indicado por meu amigo Charlon e emprestado por ele também! Há! Criado por Kazuo Koike, o mesmo criador de outro ótimo mangá, Crying Freeman, O Lobo Solitário (nome adaptado muito toscamente, diga-se de passagem, já que o título original é Kozure Okami, que seria algo mais como "O Lobo solitário e filhote". Malditos tradutores brasileiros) é uma obra incrível desde a história que se passa no Período Edo até a ilustração de Goseki Kojima, um dos traços mais belos que já vi em mangás.</p>
