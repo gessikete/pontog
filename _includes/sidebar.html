@@ -65,38 +65,13 @@
 
     <li id="categories-3" class="widget widget_categories">
       <h2 class="widgettitle">Procure posts com:</h2>
+
       <ul>
-        <li class="cat-item cat-item-228">
-          <a href="/category/new/" title="Novo formato que será utilizado a partir de 25/01/2012">New</a>
-          <ul class='children'>
-            <li class="cat-item cat-item-236"><a href="/category/new/animes/" >Animes</a></li>
-            <li class="cat-item cat-item-234"><a href="/category/new/filmes-new/" >Filmes</a></li>
-            <li class="cat-item cat-item-230"><a href="/category/new/livros-new/" >Livros</a></li>
-            <li class="cat-item cat-item-235"><a href="/category/new/mangas/" >Mangás</a></li>
-            <li class="cat-item cat-item-229"><a href="/category/new/notas/" >Notas</a></li>
-            <li class="cat-item cat-item-252"><a href="/category/new/seriado/" >Seriado</a></li>
-            <li class="cat-item cat-item-220"><a href="/category/new/wandos-do-meu-brasil/" >Wandos do meu Brasil</a></li>
-          </ul>
-        </li>
-        <li class="cat-item cat-item-227">
-          <a href="/category/old/" title="Formato antigo do Blog">Old</a>
-          <ul class='children'>
-            <li class="cat-item cat-item-207"><a href="/category/old/aconteceu-comigo/" >Aconteceu comigo</a></li>
-            <li class="cat-item cat-item-128"><a href="/category/old/desabafos/" >Desabafos</a></li>
-            <li class="cat-item cat-item-5"><a href="/category/old/dicas/" >Dicas</a></li>
-            <li class="cat-item cat-item-17"><a href="/category/old/eventos-olds/" >Eventos</a></li>
-            <li class="cat-item cat-item-103"><a href="/category/old/filmes/" >Filmes</a></li>
-            <li class="cat-item cat-item-101"><a href="/category/old/imagens/" >Imagens</a></li>
-            <li class="cat-item cat-item-167"><a href="/category/old/informatica/" >Informática</a></li>
-            <li class="cat-item cat-item-107"><a href="/category/old/livros/" >Livros</a></li>
-            <li class="cat-item cat-item-79"><a href="/category/old/musica-2/" >Musica</a></li>
-            <li class="cat-item cat-item-23"><a href="/category/old/novidades/" >Novidades</a></li>
-            <li class="cat-item cat-item-106"><a href="/category/old/participacoes-especiais/" >Participações Especiais</a></li>
-            <li class="cat-item cat-item-26"><a href="/category/old/receitas-olds/" >Receitas</a></li>
-            <li class="cat-item cat-item-197"><a href="/category/old/seriados/" >Seriados</a></li>
-            <li class="cat-item cat-item-127"><a href="/category/old/trechos/" >Trechos</a></li>
-          </ul>
-        </li>
+        {% for category in site.categories %}
+          <li>
+            <a class="category" href="/categories#{{ category | first }}">{{ category | first }}</a>
+          </li>
+        {% endfor %}
       </ul>
     </li>
 
